@@ -1,0 +1,990 @@
+﻿anime_id,name,genre,_type,episodes,rating,img_link
+16,Hachimitsu to Clover,Drama,TV,24,8.18,https://cdn.myanimelist.net/images/anime/1301/133577.jpg
+18,Initial D Fourth Stage,Drama,TV,24,8.24,https://cdn.myanimelist.net/images/anime/9/10521.jpg
+26,Texhnolyze,Drama,TV,22,7.78,https://cdn.myanimelist.net/images/anime/1027/131977.jpg
+30,Neon Genesis Evangelion,Drama,TV,26,8.32,https://cdn.myanimelist.net/images/anime/1314/108941.jpg
+31,Neon Genesis Evangelion: Death &amp; Rebirth,Drama,Movie,1,7.51,https://cdn.myanimelist.net/images/anime/1993/113122.jpg
+32,Neon Genesis Evangelion: The End of Evangelion,Drama,Movie,1,8.45,https://cdn.myanimelist.net/images/anime/1404/98182.jpg
+46,Rurouni Kenshin: Meiji Kenkaku Romantan - Ishinshishi e no Chinkonka,Drama,Movie,1,7.65,https://cdn.myanimelist.net/images/anime/4/47845.jpg
+62,D.C.: Da Capo,Drama,TV,26,6.93,https://cdn.myanimelist.net/images/anime/4/73936.jpg
+64,Rozen Maiden,Drama,TV,12,7.57,https://cdn.myanimelist.net/images/anime/1424/108431.jpg
+65,Rozen Maiden: TrÃƒÂ¤umend,Drama,TV,12,7.78,https://cdn.myanimelist.net/images/anime/4/10242.jpg
+75,Soukyuu no Fafner: Dead Aggressor,Drama,TV,25,7.38,https://cdn.myanimelist.net/images/anime/3/50365.jpg
+76,Mahou Shoujo Lyrical Nanoha,Drama,TV,13,7.52,https://cdn.myanimelist.net/images/anime/1052/136283.jpg
+77,Mahou Shoujo Lyrical Nanoha A&#039;s,Drama,TV,13,8.1,https://cdn.myanimelist.net/images/anime/4/6767.jpg
+110,Chuuka Ichiban!,Drama,TV,52,7.69,https://cdn.myanimelist.net/images/anime/6/75283.jpg
+126,Futakoi Alternative,Drama,TV,13,7.02,https://cdn.myanimelist.net/images/anime/6/16733.jpg
+134,Gunslinger Girl,Drama,TV,13,7.55,https://cdn.myanimelist.net/images/anime/5/3088.jpg
+171,Strange Dawn,Drama,TV,13,6.59,https://cdn.myanimelist.net/images/anime/12/74782.jpg
+185,Initial D First Stage,Drama,TV,26,8.23,https://cdn.myanimelist.net/images/anime/1384/127972.jpg
+186,Initial D Second Stage,Drama,TV,13,8.12,https://cdn.myanimelist.net/images/anime/8/12750.jpg
+187,Initial D Third Stage,Drama,Movie,1,7.98,https://cdn.myanimelist.net/images/anime/13/40397.jpg
+196,OnegaiÃ¢Ëœâ€ Twins,Drama,TV,12,7.05,https://cdn.myanimelist.net/images/anime/1621/100229.jpg
+199,Sen to Chihiro no Kamikakushi,Drama,Movie,1,8.93,https://cdn.myanimelist.net/images/anime/6/79597.jpg
+201,Video Girl Ai,Drama,OVA,6,7.31,https://cdn.myanimelist.net/images/anime/2/22130.jpg
+242,Gokusen,Drama,TV,13,7.48,https://cdn.myanimelist.net/images/anime/6/25273.jpg
+258,Hitsuji no Uta,Drama,OVA,4,6.43,https://cdn.myanimelist.net/images/anime/7/18066.jpg
+272,Noir,Drama,TV,26,7.41,https://cdn.myanimelist.net/images/anime/1054/96577.jpg
+283,Akage no Anne,Drama,TV,50,7.6,https://cdn.myanimelist.net/images/anime/1365/115824.jpg
+285,Argento Soma,Drama,TV,25,6.94,https://cdn.myanimelist.net/images/anime/8/9440.jpg
+302,Mirai Shounen Conan,Drama,TV,26,8.16,https://cdn.myanimelist.net/images/anime/6/17529.jpg
+312,Ace wo Nerae!: Final Stage,Drama,OVA,12,6.61,https://cdn.myanimelist.net/images/anime/6/71784.jpg
+314,Ace wo Nerae! 2,Drama,OVA,13,6.81,https://cdn.myanimelist.net/images/anime/6/71785.jpg
+333,Mama wa Shougaku 4 Nensei,Drama,TV,51,7.31,https://cdn.myanimelist.net/images/anime/12/87408.jpg
+361,Memories Off,Drama,OVA,3,6.05,https://cdn.myanimelist.net/images/anime/1497/127514.jpg
+362,Memories Off 2nd,Drama,OVA,3,6.45,https://cdn.myanimelist.net/images/anime/2/3290.jpg
+363,Memories Off 3.5,Drama,OVA,4,6.45,https://cdn.myanimelist.net/images/anime/1802/127516.jpg
+376,Elfen Lied Special,Drama,Special,1,7.34,https://cdn.myanimelist.net/images/anime/1936/121639.jpg
+416,Kurenai no Buta,Drama,Movie,1,8.03,https://cdn.myanimelist.net/images/anime/1728/138709.jpg
+428,Kaleido Star: Aratanaru Tsubasa - Extra Stage,Drama,OVA,1,7.68,https://cdn.myanimelist.net/images/anime/10/23761.jpg
+429,Kaleido Star: Legend of Phoenix - Layla Hamilton Monogatari,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/7/28863.jpg
+437,Perfect Blue,Drama,Movie,1,8.23,https://cdn.myanimelist.net/images/anime/1254/134212.jpg
+438,Phantom The Animation,Drama,OVA,3,6.66,https://cdn.myanimelist.net/images/anime/12/75176.jpg
+439,RG Veda,Drama,OVA,2,6.28,https://cdn.myanimelist.net/images/anime/1487/112102.jpg
+446,WeiÃƒÅ¸ Kreuz GlÃƒÂ¼hen,Drama,TV,13,6.72,https://cdn.myanimelist.net/images/anime/9/23693.jpg
+447,WeiÃƒÅ¸ Kreuz,Drama,TV,25,6.84,https://cdn.myanimelist.net/images/anime/13/23697.jpg
+473,Tide-Line Blue,Drama,TV,12,6.77,https://cdn.myanimelist.net/images/anime/9/75832.jpg
+475,Hotori: Tada Saiwai wo Koinegau,Drama,Movie,1,7.14,https://cdn.myanimelist.net/images/anime/1010/116695.jpg
+489,Kamichu!,Drama,TV,12,7.51,https://cdn.myanimelist.net/images/anime/3/24641.jpg
+503,Eien no Aselia,Drama,OVA,2,5.67,https://cdn.myanimelist.net/images/anime/1405/112180.jpg
+524,OnegaiÃ¢Ëœâ€ Twins: Natsu wa Owaranai,Drama,OVA,1,7.14,https://cdn.myanimelist.net/images/anime/6/67017.jpg
+559,RahXephon Interlude: Her and Herself/Thatness and Thereness,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/7/75739.jpg
+560,Soukyuu no Fafner: Right of Left - Single Program,Drama,Special,1,7.49,https://cdn.myanimelist.net/images/anime/8/50369.jpg
+565,Steamboy,Drama,Movie,1,7.45,https://cdn.myanimelist.net/images/anime/11/21278.jpg
+570,Jin-Rou,Drama,Movie,1,7.87,https://cdn.myanimelist.net/images/anime/1323/103343.jpg
+578,Hotaru no Haka,Drama,Movie,1,8.58,https://cdn.myanimelist.net/images/anime/7/75808.jpg
+587,Hanbun no Tsuki ga Noboru Sora,Drama,TV,6,7.69,https://cdn.myanimelist.net/images/anime/10/75201.jpg
+589,Ginga Nagareboshi Gin,Drama,TV,21,8.14,https://cdn.myanimelist.net/images/anime/3/47461.jpg
+597,Neko no Ongaeshi,Drama,Movie,1,7.98,https://cdn.myanimelist.net/images/anime/1176/138720.jpg
+600,Legend of Duo,Drama,TV,12,5.13,https://cdn.myanimelist.net/images/anime/7/23556.jpg
+610,Popotan,Drama,TV,12,6.46,https://cdn.myanimelist.net/images/anime/11/34457.jpg
+635,Juubee-chan: Lovely Gantai no Himitsu,Drama,TV,13,6.73,https://cdn.myanimelist.net/images/anime/13/60987.jpg
+636,Juubee-chan 2: Siberia Yagyuu no Gyakushuu,Drama,TV,13,6.99,https://cdn.myanimelist.net/images/anime/7/20768.jpg
+671,Lemon Angel Project,Drama,TV,13,6.8,https://cdn.myanimelist.net/images/anime/5/36417.jpg
+675,One: Kagayaku Kisetsu e,Drama,OVA,4,5.24,https://cdn.myanimelist.net/images/anime/5/25086.jpg
+676,Refrain Blue,Drama,OVA,3,5.97,https://cdn.myanimelist.net/images/anime/10/75869.jpg
+688,Uta Kata,Drama,TV,12,6.88,https://cdn.myanimelist.net/images/anime/3/25392.jpg
+689,Uta Kata Special,Drama,Special,1,7.09,https://cdn.myanimelist.net/images/anime/7/24068.jpg
+690,Kyuuketsuhime Miyu (TV),Drama,TV,26,7.24,https://cdn.myanimelist.net/images/anime/1427/134363.jpg
+710,Rec,Drama,TV,9,7.46,https://cdn.myanimelist.net/images/anime/1940/124243.jpg
+723,Candy Candy (Movie),Drama,Movie,1,6.84,https://cdn.myanimelist.net/images/anime/11/66847.jpg
+725,First Kiss Monogatari,Drama,OVA,1,5.21,https://cdn.myanimelist.net/images/anime/1937/113697.jpg
+731,Interstella5555: The 5tory of The 5ecret 5tar 5ystem,Drama,Music,1,8.17,https://cdn.myanimelist.net/images/anime/5/82786.jpg
+752,Osakana wa Ami no Naka,Drama,OVA,1,5.12,https://cdn.myanimelist.net/images/anime/2/33631.jpg
+754,Yuki no Joou,Drama,TV,36,7.19,https://cdn.myanimelist.net/images/anime/2/26180.jpg
+757,Kaze wo Mita Shounen,Drama,Movie,1,6.86,https://cdn.myanimelist.net/images/anime/5/27052.jpg
+766,Kishin Houkou Demonbane,Drama,OVA,1,6.21,https://cdn.myanimelist.net/images/anime/1/766.jpg
+770,Pale Cocoon,Drama,OVA,1,7.53,https://cdn.myanimelist.net/images/anime/2/3211.jpg
+782,Gasaraki,Drama,TV,25,6.74,https://cdn.myanimelist.net/images/anime/1622/99582.jpg
+785,Otaku no Video,Drama,OVA,2,7.22,https://cdn.myanimelist.net/images/anime/1217/117018.jpg
+795,Oniisama e...,Drama,TV,39,7.88,https://cdn.myanimelist.net/images/anime/12/18531.jpg
+798,Yomigaeru Sora: Rescue Wings,Drama,TV,12,7.53,https://cdn.myanimelist.net/images/anime/1255/120063.jpg
+799,Kokoro Toshokan,Drama,TV,13,6.62,https://cdn.myanimelist.net/images/anime/3/21207.jpg
+812,Chikyuu Shoujo Arjuna,Drama,TV,13,6.98,https://cdn.myanimelist.net/images/anime/1294/133834.jpg
+821,Initial D Battle Stage,Drama,OVA,1,7.63,https://cdn.myanimelist.net/images/anime/2/13168.jpg
+822,Initial D Extra Stage,Drama,OVA,2,7.48,https://cdn.myanimelist.net/images/anime/8/13169.jpg
+825,King of Fighters: Another Day,Drama,ONA,4,6.47,https://cdn.myanimelist.net/images/anime/3/12676.jpg
+835,Sister Princess: Re Pure,Drama,TV,13,6.37,https://cdn.myanimelist.net/images/anime/2/25293.jpg
+838,Narutaru: Mukuro Naru Hoshi Tama Taru Ko,Drama,TV,13,6.28,https://cdn.myanimelist.net/images/anime/10/12023.jpg
+863,Joshikousei: Girl&#039;s High,Drama,TV,12,6.69,https://cdn.myanimelist.net/images/anime/5/23224.jpg
+885,Tenshi no Tamago,Drama,OVA,1,7.56,https://cdn.myanimelist.net/images/anime/11/63181.jpg
+915,Ginga Densetsu Weed,Drama,TV,26,7.31,https://cdn.myanimelist.net/images/anime/5/74037.jpg
+959,Shin Chou Kyou Ryo: Condor Hero,Drama,TV,26,7.53,https://cdn.myanimelist.net/images/anime/1698/139204.jpg
+960,Shin Chou Kyou Ryo: Condor Hero II,Drama,TV,26,7.51,https://cdn.myanimelist.net/images/anime/1788/139203.jpg
+1001,Tide-Line Blue Special,Drama,Special,1,6.83,https://cdn.myanimelist.net/images/anime/3/21407.jpg
+1032,Kumo no You ni Kaze no You ni,Drama,Movie,1,7.03,https://cdn.myanimelist.net/images/anime/2/43205.jpg
+1044,Taiyou no Ouji: Horus no Daibouken,Drama,Movie,1,6.63,https://cdn.myanimelist.net/images/anime/1791/100508.jpg
+1047,On Your Mark,Drama,Music,1,7.6,https://cdn.myanimelist.net/images/anime/10/81234.jpg
+1071,Memories Off #5 Togireta Film The Animation,Drama,OVA,1,6.34,https://cdn.myanimelist.net/images/anime/8/4682.jpg
+1083,Human Crossing,Drama,TV,13,6.53,https://cdn.myanimelist.net/images/anime/1887/136211.jpg
+1084,I&#039;&#039;s,Drama,OVA,2,6.13,https://cdn.myanimelist.net/images/anime/1/1084.jpg
+1095,Mobile Police Patlabor: The Movie,Drama,Movie,1,7.59,https://cdn.myanimelist.net/images/anime/5/74786.jpg
+1097,Lime-iro Senkitan,Drama,TV,13,6.14,https://cdn.myanimelist.net/images/anime/6/75503.jpg
+1107,Youjuu Toshi,Drama,Movie,1,6.52,https://cdn.myanimelist.net/images/anime/2/50021.jpg
+1116,Junkers Come Here,Drama,Movie,1,7.29,https://cdn.myanimelist.net/images/anime/1343/100456.jpg
+1142,Hachimitsu to Clover II,Drama,TV,12,8.37,https://cdn.myanimelist.net/images/anime/6/11040.jpg
+1154,Mother: Saigo no Shoujo Eve,Drama,Movie,1,5.97,https://cdn.myanimelist.net/images/anime/12/68115.jpg
+1169,Green Legend Ran,Drama,OVA,3,6.9,https://cdn.myanimelist.net/images/anime/1882/96360.jpg
+1187,DNAÃ‚Â² OVA,Drama,OVA,3,6.73,https://cdn.myanimelist.net/images/anime/7/4537.jpg
+1206,Ihatov Gensou: Kenji no Haru,Drama,Movie,1,7.4,https://cdn.myanimelist.net/images/anime/5/57331.jpg
+1210,NHK ni Youkoso!,Drama,TV,24,8.4,https://cdn.myanimelist.net/images/anime/3/52675.jpg
+1214,Binbou Shimai Monogatari,Drama,TV,10,6.95,https://cdn.myanimelist.net/images/anime/1959/108682.jpg
+1219,Chocotto Sister,Drama,TV,24,6.91,https://cdn.myanimelist.net/images/anime/7/16825.jpg
+1230,Innocent Venus,Drama,TV,12,6.95,https://cdn.myanimelist.net/images/anime/1104/131282.jpg
+1240,Bishoujo Senshi Sailor Moon SuperS: Sailor 9 Senshi Shuuketsu! Black Dream Hole no Kiseki,Drama,Movie,1,7.62,https://cdn.myanimelist.net/images/anime/1952/117493.jpg
+1268,Aquarian Age: Saga II - Don&#039;t Forget Me...,Drama,OVA,1,6.04,https://cdn.myanimelist.net/images/anime/3/61595.jpg
+1287,Odin: Koushi Hansen Starlight,Drama,Movie,1,5.26,https://cdn.myanimelist.net/images/anime/1093/112894.jpg
+1303,The Animatrix,Drama,OVA,9,7.34,https://cdn.myanimelist.net/images/anime/3/75870.jpg
+1324,Earthian,Drama,OVA,4,6.27,https://cdn.myanimelist.net/images/anime/3/62449.jpg
+1325,Hamelin no Violin Hiki,Drama,TV,25,6.78,https://cdn.myanimelist.net/images/anime/7/20972.jpg
+1329,Rail of the Star: A True Story of Children,Drama,Movie,1,7.41,https://cdn.myanimelist.net/images/anime/4/85355.jpg
+1336,Kyoushoku Soukou Guyver II,Drama,OVA,6,7.2,https://cdn.myanimelist.net/images/anime/1833/92279.jpg
+1341,Violence Jack: Harlem Bomber-hen,Drama,OVA,1,5.46,https://cdn.myanimelist.net/images/anime/1152/121840.jpg
+1342,Violence Jack: Jigoku Gai-hen,Drama,OVA,1,5.8,https://cdn.myanimelist.net/images/anime/13/12874.jpg
+1343,Violence Jack: Hell&#039;s Wind-hen,Drama,OVA,1,5.68,https://cdn.myanimelist.net/images/anime/1/2384.jpg
+1344,Eightman After,Drama,OVA,4,6.38,https://cdn.myanimelist.net/images/anime/1150/92809.jpg
+1356,Hokuto no Ken 2,Drama,TV,43,7.64,https://cdn.myanimelist.net/images/anime/1912/106020.jpg
+1373,Black Jack Specials: Inochi wo Meguru Yottsu no Kiseki,Drama,Special,4,7.45,https://cdn.myanimelist.net/images/anime/1879/120375.jpg
+1379,Kino no Tabi: Nanika wo Suru Tame ni - Life Goes On.,Drama,Movie,1,7.91,https://cdn.myanimelist.net/images/anime/5/73888.jpg
+1384,Kyuuketsuhime Miyu,Drama,OVA,4,7.13,https://cdn.myanimelist.net/images/anime/12/78948.jpg
+1450,Brigadoon: Marin to Melan,Drama,TV,26,7.44,https://cdn.myanimelist.net/images/anime/7/75820.jpg
+1457,Key the Metal Idol,Drama,OVA,15,7.09,https://cdn.myanimelist.net/images/anime/1793/115026.jpg
+1462,Memories,Drama,Movie,3,7.84,https://cdn.myanimelist.net/images/anime/9/74781.jpg
+1485,Akachan to Boku,Drama,TV,35,8.02,https://cdn.myanimelist.net/images/anime/2/49693.jpg
+1488,Area 88,Drama,OVA,3,7.65,https://cdn.myanimelist.net/images/anime/11/2856.jpg
+1497,Aru Machi Kado no Monogatari,Drama,Movie,1,6.81,https://cdn.myanimelist.net/images/anime/6/3159.jpg
+1500,Teizokurei Daydream,Drama,OVA,4,6.4,https://cdn.myanimelist.net/images/anime/8/3784.jpg
+1504,Macross Flash Back 2012,Drama,OVA,1,7.04,https://cdn.myanimelist.net/images/anime/5/11073.jpg
+1508,Sci-fi Harry,Drama,TV,20,6.38,https://cdn.myanimelist.net/images/anime/9/57605.jpg
+1520,Black Jack,Drama,OVA,12,7.88,https://cdn.myanimelist.net/images/anime/5/12978.jpg
+1521,Black Jack the Movie,Drama,Movie,1,7.38,https://cdn.myanimelist.net/images/anime/1868/134318.jpg
+1538,Pumpkin Scissors,Drama,TV,24,7.25,https://cdn.myanimelist.net/images/anime/8/75181.jpg
+1550,Attack No.1,Drama,TV,104,6.85,https://cdn.myanimelist.net/images/anime/1324/135450.jpg
+1552,Hiatari Ryoukou! Yume no Naka ni Kimi ga Ita,Drama,Movie,1,6.31,https://cdn.myanimelist.net/images/anime/7/74265.jpg
+1554,Asatte no Houkou.,Drama,TV,12,7.16,https://cdn.myanimelist.net/images/anime/4/74962.jpg
+1576,Bakumatsu Kikansetsu Irohanihoheto,Drama,ONA,26,7.22,https://cdn.myanimelist.net/images/anime/4/56037.jpg
+1589,Bartender,Drama,TV,11,7.5,https://cdn.myanimelist.net/images/anime/13/67397.jpg
+1601,Red Garden,Drama,TV,22,7.22,https://cdn.myanimelist.net/images/anime/5/25411.jpg
+1608,Salaryman Kintarou,Drama,TV,20,7.61,https://cdn.myanimelist.net/images/anime/8/62593.jpg
+1629,Devilman Lady,Drama,TV,26,6.92,https://cdn.myanimelist.net/images/anime/2/18370.jpg
+1660,Kurogane Communication,Drama,TV,24,6.76,https://cdn.myanimelist.net/images/anime/1266/133852.jpg
+1663,Haha wo Tazunete Sanzenri,Drama,TV,52,7.39,https://cdn.myanimelist.net/images/anime/9/80523.jpg
+1682,Baldr Force Exe Resolution,Drama,OVA,4,6.65,https://cdn.myanimelist.net/images/anime/3/76295.jpg
+1690,Bokurano,Drama,TV,24,7.82,https://cdn.myanimelist.net/images/anime/1690/97048.jpg
+1692,_Summer,Drama,OVA,2,5.88,https://cdn.myanimelist.net/images/anime/11/75131.jpg
+1695,Les MisÃƒÂ©rables: Shoujo Cosette,Drama,TV,52,7.99,https://cdn.myanimelist.net/images/anime/1/1695.jpg
+1719,Rozen Maiden: OuvertÃƒÂ¼re,Drama,Special,2,7.83,https://cdn.myanimelist.net/images/anime/1/1719.jpg
+1729,Maria-sama ga Miteru 3rd,Drama,OVA,5,8,https://cdn.myanimelist.net/images/anime/6/75209.jpg
+1740,Naikaku Kenryoku Hanzai Kyousei Torishimarikan Zaizen Joutarou,Drama,TV,11,6.08,https://cdn.myanimelist.net/images/anime/11/62657.jpg
+1760,Golgo 13,Drama,Movie,1,6.93,https://cdn.myanimelist.net/images/anime/1476/102570.jpg
+1761,Golgo 13: Queen Bee,Drama,OVA,1,6.72,https://cdn.myanimelist.net/images/anime/5/38653.jpg
+1791,Ai Doll,Drama,OVA,4,5.94,https://cdn.myanimelist.net/images/anime/3/65877.jpg
+1793,Kaze no Na wa Amnesia,Drama,Movie,1,6.62,https://cdn.myanimelist.net/images/anime/1/1793.jpg
+1797,Animation Seisaku Shinkou Kuromi-chan,Drama,OVA,1,7.04,https://cdn.myanimelist.net/images/anime/1/1797.jpg
+1798,Animation Seisaku Shinkou Kuromi-chan 2,Drama,OVA,1,7.05,https://cdn.myanimelist.net/images/anime/1/1798.jpg
+1800,Fatal Fury 2: The New Battle,Drama,OVA,1,6.89,https://cdn.myanimelist.net/images/anime/1691/106030.jpg
+1824,Hadashi no Gen,Drama,Movie,1,7.92,https://cdn.myanimelist.net/images/anime/1873/98756.jpg
+1825,Hadashi no Gen 2,Drama,Movie,1,7.5,https://cdn.myanimelist.net/images/anime/1295/98758.jpg
+1830,Utawarerumono Specials,Drama,Special,6,7.75,https://cdn.myanimelist.net/images/anime/1319/99303.jpg
+1832,Meiou Project Zeorymer,Drama,OVA,4,6.36,https://cdn.myanimelist.net/images/anime/1068/112547.jpg
+1843,Yomigaeru Sora: Rescue Wings Special,Drama,Special,1,7.08,https://cdn.myanimelist.net/images/anime/1/1843.jpg
+1847,Rec: Yurusarezarumono,Drama,Special,1,7.3,https://cdn.myanimelist.net/images/anime/1025/128543.jpg
+1857,Taiyou no Mokushiroku: A Spirit of the Sun,Drama,Special,2,7.11,https://cdn.myanimelist.net/images/anime/1189/134725.jpg
+1868,Gin&#039;iro no Olynsis: Tokito,Drama,TV,12,6.42,https://cdn.myanimelist.net/images/anime/13/23608.jpg
+1878,Kaze no Shoujo Emily,Drama,TV,26,7.49,https://cdn.myanimelist.net/images/anime/1187/131232.jpg
+1915,Mahou Shoujo Lyrical Nanoha StrikerS,Drama,TV,26,7.74,https://cdn.myanimelist.net/images/anime/3/14190.jpg
+1949,Mahou no Chocolate,Drama,OVA,1,5.39,https://cdn.myanimelist.net/images/anime/1055/112163.jpg
+1952,Vampire Hunter,Drama,OVA,4,6.83,https://cdn.myanimelist.net/images/anime/1078/131326.jpg
+1959,Wild 7,Drama,OVA,2,6.34,https://cdn.myanimelist.net/images/anime/1164/134100.jpg
+1961,Arashi no Yoru ni,Drama,Movie,1,7.9,https://cdn.myanimelist.net/images/anime/9/5064.jpg
+1974,Glass no Kamen (2005),Drama,TV,51,8.23,https://cdn.myanimelist.net/images/anime/1/2043.jpg
+1977,Hijikata Toshizou: Shiro no Kiseki,Drama,OVA,1,6.35,https://cdn.myanimelist.net/images/anime/1/2252.jpg
+1983,Black Jack: Futari no Kuroi Isha,Drama,Movie,1,7.42,https://cdn.myanimelist.net/images/anime/4/40303.jpg
+2000,Roujin Z,Drama,OVA,1,7.15,https://cdn.myanimelist.net/images/anime/1584/93628.jpg
+2004,Hanada Shounen-shi,Drama,TV,25,8.16,https://cdn.myanimelist.net/images/anime/2/87319.jpg
+2009,Yawara! Special: Zutto Kimi no Koto ga... .,Drama,Special,1,7.46,https://cdn.myanimelist.net/images/anime/1/2125.jpg
+2013,Taiho Shichau zo The Movie,Drama,Movie,1,7.42,https://cdn.myanimelist.net/images/anime/1921/92313.jpg
+2019,DNA Sights 999.9,Drama,OVA,1,6.3,https://cdn.myanimelist.net/images/anime/1374/99920.jpg
+2030,El Cazador de la Bruja,Drama,TV,26,7.32,https://cdn.myanimelist.net/images/anime/1446/98891.jpg
+2036,Cosmic Baton Girl Comet-san,Drama,TV,43,7.27,https://cdn.myanimelist.net/images/anime/1710/95290.jpg
+2103,TO-Y,Drama,OVA,1,6.37,https://cdn.myanimelist.net/images/anime/1462/116597.jpg
+2175,Kino no Tabi: The Beautiful World - Byouki no Kuni - For You,Drama,Movie,1,7.87,https://cdn.myanimelist.net/images/anime/8/73906.jpg
+2199,Chirin no Suzu,Drama,Movie,1,7.22,https://cdn.myanimelist.net/images/anime/11/80079.jpg
+2210,Tooi Sekai,Drama,ONA,1,6.62,https://cdn.myanimelist.net/images/anime/1427/103656.jpg
+2213,Black Jack (TV),Drama,TV,61,7.74,https://cdn.myanimelist.net/images/anime/1588/133791.jpg
+2216,Shigurui,Drama,TV,12,7.54,https://cdn.myanimelist.net/images/anime/1440/115872.jpg
+2220,Be-Boy Kidnapp&#039;n Idol,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/1/2413.jpg
+2225,Alps no Shoujo Heidi,Drama,TV,52,7.26,https://cdn.myanimelist.net/images/anime/1338/110897.jpg
+2227,Lady Lady!!,Drama,TV,21,7.73,https://cdn.myanimelist.net/images/anime/13/16818.jpg
+2230,Hana no Ko Lunlun,Drama,TV,50,7.02,https://cdn.myanimelist.net/images/anime/3/16095.jpg
+2235,Mizu no Kotoba,Drama,Special,1,7.03,https://cdn.myanimelist.net/images/anime/13/76137.jpg
+2243,Karasu Tengu Kabuto,Drama,TV,39,6.97,https://cdn.myanimelist.net/images/anime/1/2445.jpg
+2256,Choujuu Kishin Dancougar: Ushinawareta Monotachi e no Requiem,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/1592/92618.jpg
+2298,Mobile Suit Gundam Seed: After-Phase Between the Stars,Drama,Special,1,7.16,https://cdn.myanimelist.net/images/anime/7/28296.jpg
+2308,Lime-iro Ryuukitan X,Drama,TV,13,5.89,https://cdn.myanimelist.net/images/anime/6/75504.jpg
+2333,Anime Sanjuushi,Drama,TV,52,7.3,https://cdn.myanimelist.net/images/anime/3/61981.jpg
+2341,Choujin Densetsu Urotsukidouji,Drama,OVA,3,6.34,https://cdn.myanimelist.net/images/anime/1109/111849.jpg
+2346,Koroshiya 1 The Animation: Episode 0,Drama,OVA,1,5.94,https://cdn.myanimelist.net/images/anime/11/34131.jpg
+2359,Choujin Densetsu Urotsukidouji Movie,Drama,Movie,1,6.37,https://cdn.myanimelist.net/images/anime/10/15026.jpg
+2372,Enbo,Drama,OVA,6,7.22,https://cdn.myanimelist.net/images/anime/6/40117.jpg
+2387,Ai Monogatari: 9 Love Stories,Drama,OVA,1,6.82,https://cdn.myanimelist.net/images/anime/5/2646.jpg
+2398,Digimon Adventure 02: Diablomon no Gyakushuu,Drama,Movie,1,7.4,https://cdn.myanimelist.net/images/anime/2/82620.jpg
+2402,Ashita no Joe,Drama,TV,79,8.22,https://cdn.myanimelist.net/images/anime/5/64671.jpg
+2405,Hello! Lady Lynn,Drama,TV,36,7.85,https://cdn.myanimelist.net/images/anime/4/16819.jpg
+2453,Dennou Sentai Voogie&#039;sÃ¢Ëœâ€¦Angel,Drama,OVA,3,5.69,https://cdn.myanimelist.net/images/anime/8/75160.jpg
+2459,Maison Ikkoku: Ikkokujima Nanpa Shimatsuki,Drama,OVA,1,7.23,https://cdn.myanimelist.net/images/anime/3/4678.jpg
+2460,Maison Ikkoku: Kanketsu-hen,Drama,Movie,1,7.49,https://cdn.myanimelist.net/images/anime/1571/135332.jpg
+2468,Nineteen 19,Drama,OVA,1,6.13,https://cdn.myanimelist.net/images/anime/4/31679.jpg
+2493,Touch 3: Kimi ga Toorisugita Ato ni - Don&#039;t Pass Me By,Drama,Movie,1,7.01,https://cdn.myanimelist.net/images/anime/13/3044.jpg
+2495,Chance Triangle Session,Drama,TV,13,6.77,https://cdn.myanimelist.net/images/anime/1821/128740.jpg
+2544,Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone,Drama,TV,50,7.35,https://cdn.myanimelist.net/images/anime/1191/98626.jpg
+2545,Huckleberry no Bouken,Drama,TV,26,6.25,https://cdn.myanimelist.net/images/anime/13/3207.jpg
+2546,Alps Monogatari: Watashi no Annette,Drama,TV,48,6.73,https://cdn.myanimelist.net/images/anime/1626/98666.jpg
+2547,Shoukoujo Sara,Drama,TV,46,7.8,https://cdn.myanimelist.net/images/anime/8/3209.jpg
+2548,Ai no Wakakusa Monogatari,Drama,TV,48,7.48,https://cdn.myanimelist.net/images/anime/2/3210.jpg
+2549,Perrine Monogatari,Drama,TV,53,7.63,https://cdn.myanimelist.net/images/anime/1206/137104.jpg
+2553,Flanders no Inu,Drama,TV,52,7.52,https://cdn.myanimelist.net/images/anime/2/17492.jpg
+2554,Ai Shoujo Pollyanna Story,Drama,TV,51,6.98,https://cdn.myanimelist.net/images/anime/13/71674.jpg
+2555,Shoukoushi Cedie,Drama,TV,43,7.45,https://cdn.myanimelist.net/images/anime/5/3273.jpg
+2557,Trapp Ikka Monogatari,Drama,TV,40,7.75,https://cdn.myanimelist.net/images/anime/2/17856.jpg
+2558,Wakakusa Monogatari: Nan to Jo-sensei,Drama,TV,40,7.73,https://cdn.myanimelist.net/images/anime/12/3276.jpg
+2559,Romeo no Aoi Sora,Drama,TV,33,8.47,https://cdn.myanimelist.net/images/anime/4/17979.jpg
+2568,Kojika Monogatari,Drama,TV,52,6.68,https://cdn.myanimelist.net/images/anime/1164/132238.jpg
+2573,Minami no Niji no Lucy,Drama,TV,50,7.05,https://cdn.myanimelist.net/images/anime/1769/102083.jpg
+2576,Araiguma Rascal,Drama,TV,52,6.82,https://cdn.myanimelist.net/images/anime/7/3363.jpg
+2577,Tom Sawyer no Bouken,Drama,TV,49,7.15,https://cdn.myanimelist.net/images/anime/10/73344.jpg
+2583,Soukou Kihei Votoms: The Last Red Shoulder,Drama,OVA,1,7.32,https://cdn.myanimelist.net/images/anime/8/24536.jpg
+2584,Soukou Kihei Votoms: Big Battle,Drama,OVA,1,6.9,https://cdn.myanimelist.net/images/anime/10/24534.jpg
+2585,Soukou Kihei Votoms: Red Shoulder Document - Yabou no Roots,Drama,OVA,1,7.49,https://cdn.myanimelist.net/images/anime/5/24535.jpg
+2586,Soukou Kihei Votoms: Kakuyaku taru Itan,Drama,OVA,5,7.17,https://cdn.myanimelist.net/images/anime/1212/94628.jpg
+2594,Piano no Mori,Drama,Movie,1,7.87,https://cdn.myanimelist.net/images/anime/9/45012.jpg
+2613,Mirai Shounen Conan 2: Taiga Daibouken,Drama,TV,24,7.03,https://cdn.myanimelist.net/images/anime/12/40015.jpg
+2614,Mirai Shounen Conan: Tokubetsu-hen - Kyodaiki Gigant no Fukkatsu,Drama,Movie,1,6.93,https://cdn.myanimelist.net/images/anime/4/17369.jpg
+2618,Takarajima,Drama,TV,26,8.04,https://cdn.myanimelist.net/images/anime/11/56123.jpg
+2623,Flanders no Inu (Movie),Drama,Movie,1,8.05,https://cdn.myanimelist.net/images/anime/3/75599.jpg
+2624,"Flanders no Inu, Boku no Patrasche",Drama,TV,26,7.32,https://cdn.myanimelist.net/images/anime/7/22953.jpg
+2694,Hidamari no Ki,Drama,TV,25,6.27,https://cdn.myanimelist.net/images/anime/1344/110484.jpg
+2698,Sanctuary,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/1795/105898.jpg
+2714,Sotsugyou: Graduation,Drama,OVA,2,6.37,https://cdn.myanimelist.net/images/anime/1855/96094.jpg
+2726,Sukeban Deka,Drama,OVA,2,6.58,https://cdn.myanimelist.net/images/anime/5/3675.jpg
+2729,XÃ‚Â²: Double X,Drama,Music,1,6.68,https://cdn.myanimelist.net/images/anime/8/3681.jpg
+2737,Kouryuu no Mimi: Mina no Shou,Drama,OVA,2,5.51,https://cdn.myanimelist.net/images/anime/10/59847.jpg
+2740,Monkey Turn,Drama,TV,25,6.55,https://cdn.myanimelist.net/images/anime/2/75223.jpg
+2741,Monkey Turn V,Drama,TV,25,7.13,https://cdn.myanimelist.net/images/anime/4/75224.jpg
+2753,Ushiro no Shoumen Daare,Drama,Movie,1,7.99,https://cdn.myanimelist.net/images/anime/1693/133896.jpg
+2779,Sotsugyou M: Ore-tachi no Carnival,Drama,OVA,2,5.68,https://cdn.myanimelist.net/images/anime/11/3755.jpg
+2800,Candy Candy,Drama,TV,115,7.58,https://cdn.myanimelist.net/images/anime/4/35051.jpg
+2801,Candy Candy: Haru no Yobigoe,Drama,Movie,1,6.69,https://cdn.myanimelist.net/images/anime/1967/94757.jpg
+2802,Candy Candy: Candy no Natsu Yasumi,Drama,Movie,1,6.81,https://cdn.myanimelist.net/images/anime/1510/94758.jpg
+2810,Anime Himitsu no Hanazono,Drama,TV,39,7.11,https://cdn.myanimelist.net/images/anime/8/69919.jpg
+2811,Soratobu Yuureisen,Drama,Movie,1,6.85,https://cdn.myanimelist.net/images/anime/1557/112988.jpg
+2828,Ie Naki Ko,Drama,TV,51,7.9,https://cdn.myanimelist.net/images/anime/9/76757.jpg
+2829,Ie Naki Ko Remi,Drama,TV,23,8.03,https://cdn.myanimelist.net/images/anime/12/26250.jpg
+2830,Chibikko Remi to Meiken Kapi,Drama,Movie,1,6.26,https://cdn.myanimelist.net/images/anime/11/28419.jpg
+2831,Ie Naki Ko (Movie),Drama,Movie,1,6.8,https://cdn.myanimelist.net/images/anime/1135/135330.jpg
+2834,MiracleÃ¢Ëœâ€ Girls,Drama,TV,51,7.28,https://cdn.myanimelist.net/images/anime/11/21213.jpg
+2881,Chinmoku no Kantai,Drama,OVA,3,6.57,https://cdn.myanimelist.net/images/anime/1624/101493.jpg
+2915,Chikyuu ga Ugoita Hi,Drama,Movie,1,6.54,https://cdn.myanimelist.net/images/anime/1943/95714.jpg
+2920,Ashita no Joe (Movie),Drama,Movie,1,7.32,https://cdn.myanimelist.net/images/anime/7/51837.jpg
+2921,Ashita no Joe 2,Drama,TV,47,8.48,https://cdn.myanimelist.net/images/anime/3/45028.jpg
+2922,Ashita no Joe 2 (Movie),Drama,Movie,1,7.53,https://cdn.myanimelist.net/images/anime/5/53557.jpg
+2981,Chika Gentou Gekiga: Shoujo Tsubaki,Drama,Movie,1,6.27,https://cdn.myanimelist.net/images/anime/13/77662.jpg
+2999,Hi no Tori: Yamato-hen,Drama,OVA,1,7.04,https://cdn.myanimelist.net/images/anime/4/4340.jpg
+3003,Yumedamaya Kidan,Drama,Special,1,6.69,https://cdn.myanimelist.net/images/anime/7/89601.jpg
+3027,Hokuto no Ken: Yuria-den,Drama,OVA,1,7.18,https://cdn.myanimelist.net/images/anime/10/29633.jpg
+3054,La Seine no Hoshi,Drama,TV,39,6.66,https://cdn.myanimelist.net/images/anime/6/60815.jpg
+3071,Uchuu Senkan Yamato: Aratanaru Tabidachi,Drama,Special,1,6.97,https://cdn.myanimelist.net/images/anime/3/83050.jpg
+3077,Warau Salesman,Drama,TV,103,6.76,https://cdn.myanimelist.net/images/anime/5/61389.jpg
+3089,The Sky Crawlers,Drama,Movie,1,7.4,https://cdn.myanimelist.net/images/anime/8/8212.jpg
+3110,Kaze no Naka no Shoujo: Kinpatsu no Jeanie,Drama,TV,52,7.17,https://cdn.myanimelist.net/images/anime/5/89782.jpg
+3111,Nasu: Suitcase no Wataridori,Drama,OVA,1,7.28,https://cdn.myanimelist.net/images/anime/1340/133561.jpg
+3147,Me gumi no Daigo: Kajiba no Baka Yarou,Drama,Movie,1,6.53,https://cdn.myanimelist.net/images/anime/9/35353.jpg
+3162,Makiba no Shoujo Katri,Drama,TV,49,6.9,https://cdn.myanimelist.net/images/anime/1227/98642.jpg
+3175,Kaitei Choutokkyuu: Marine Express,Drama,Special,1,6.37,https://cdn.myanimelist.net/images/anime/6/56819.jpg
+3196,Wakakusa no Charlotte,Drama,TV,30,6.99,https://cdn.myanimelist.net/images/anime/1988/118431.jpg
+3220,Kanashimi no Belladonna,Drama,Movie,1,7.28,https://cdn.myanimelist.net/images/anime/11/24740.jpg
+3231,Gunslinger Girl: Il Teatrino,Drama,TV,13,7.3,https://cdn.myanimelist.net/images/anime/5/16697.jpg
+3248,Tenpou Ibun: Ayakashi Ayashi - Ayashi Shinkyoku,Drama,Special,5,7,https://cdn.myanimelist.net/images/anime/9/50917.jpg
+3266,Ai Yori Aoshi: Enishi - Miyuki,Drama,Special,1,7.04,https://cdn.myanimelist.net/images/anime/7/10173.jpg
+3318,Kimi ga Nozomu Eien: Next Season,Drama,OVA,4,7.05,https://cdn.myanimelist.net/images/anime/7/22508.jpg
+3323,Kite Liberator,Drama,OVA,1,6.52,https://cdn.myanimelist.net/images/anime/11/10228.jpg
+3326,Inaka Isha,Drama,Movie,1,6.88,https://cdn.myanimelist.net/images/anime/5/5344.jpg
+3358,Kure-nai,Drama,TV,12,7.52,https://cdn.myanimelist.net/images/anime/2/8482.jpg
+3421,Kodomo no Omocha,Drama,OVA,1,7.24,https://cdn.myanimelist.net/images/anime/1461/105879.jpg
+3424,Porphy no Nagai Tabi,Drama,TV,52,7.11,https://cdn.myanimelist.net/images/anime/11/5585.jpg
+3449,Kamichu! Specials,Drama,Special,4,7.6,https://cdn.myanimelist.net/images/anime/12/24645.jpg
+3462,Minky Momo in Yume ni Kakeru Hashi,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/7/78351.jpg
+3465,Nagasaki 1945: Angelus no Kane,Drama,Movie,1,6.61,https://cdn.myanimelist.net/images/anime/1579/112922.jpg
+3483,Maison Ikkoku: Utsuriyuku Kisetsu no Naka de,Drama,OVA,1,7.15,https://cdn.myanimelist.net/images/anime/11/30539.jpg
+3484,Maison Ikkoku: Prelude - Meguru Haru no Sakura no you ni...,Drama,Special,1,7.1,https://cdn.myanimelist.net/images/anime/8/69245.jpg
+3488,Genji Monogatari,Drama,Movie,1,6.72,https://cdn.myanimelist.net/images/anime/13/13741.jpg
+3507,Survival,Drama,Music,1,6.42,https://cdn.myanimelist.net/images/anime/7/5857.jpg
+3726,Karasu Tengu Kabuto: Ougon no Me no Kemono,Drama,OVA,1,6.11,https://cdn.myanimelist.net/images/anime/1089/96966.jpg
+3734,Glass no Kamen: Sen no Kamen wo Motsu Shoujo,Drama,OVA,3,7.32,https://cdn.myanimelist.net/images/anime/1788/97618.jpg
+3800,Arrow Emblem Grand Prix no Taka,Drama,TV,44,6.66,https://cdn.myanimelist.net/images/anime/1718/99949.jpg
+3819,Sasurai no Taiyou,Drama,TV,26,6.42,https://cdn.myanimelist.net/images/anime/1068/101174.jpg
+3829,Anne no Nikki,Drama,Movie,1,7.08,https://cdn.myanimelist.net/images/anime/12/46771.jpg
+3835,Ai no Gakko Cuore Monogatari,Drama,TV,26,6.78,https://cdn.myanimelist.net/images/anime/1792/110187.jpg
+3866,Kuro ga Ita Natsu,Drama,Movie,1,6.74,https://cdn.myanimelist.net/images/anime/6/22958.jpg
+3879,Paris no Isabelle,Drama,TV,13,6.19,https://cdn.myanimelist.net/images/anime/7/64331.jpg
+3887,Ookiku Furikabutte Special,Drama,Special,1,7.35,https://cdn.myanimelist.net/images/anime/1588/108620.jpg
+3931,Initial D Battle Stage 2,Drama,OVA,1,7.74,https://cdn.myanimelist.net/images/anime/3/13167.jpg
+3946,Jarinko Chie,Drama,Movie,1,7.26,https://cdn.myanimelist.net/images/anime/1398/112401.jpg
+3947,Jarinko Chie (TV),Drama,TV,64,7.11,https://cdn.myanimelist.net/images/anime/4/77065.jpg
+4033,The iDOLM@STER Live For You!,Drama,OVA,1,6.32,https://cdn.myanimelist.net/images/anime/11/39771.jpg
+4039,Golgo 13 (TV),Drama,TV,50,7.61,https://cdn.myanimelist.net/images/anime/9/25423.jpg
+4132,Wakakusa no Yon Shimai,Drama,TV,26,6.64,https://cdn.myanimelist.net/images/anime/12/80150.jpg
+4189,Winter Sonata,Drama,TV,26,7.51,https://cdn.myanimelist.net/images/anime/12/26302.jpg
+4199,Entaku no Kishi Monogatari: Moero Arthur,Drama,TV,30,6.72,https://cdn.myanimelist.net/images/anime/9/7757.jpg
+4201,Chocchan Monogatari,Drama,Movie,1,6.81,https://cdn.myanimelist.net/images/anime/1696/112292.jpg
+4210,Gokiburi-tachi no Tasogare,Drama,Movie,1,6.02,https://cdn.myanimelist.net/images/anime/3/17430.jpg
+4213,Saishuu Shiken Kujira Progressive,Drama,OVA,1,6.34,https://cdn.myanimelist.net/images/anime/8/25777.jpg
+4339,Ashita e Attack!,Drama,TV,23,6.84,https://cdn.myanimelist.net/images/anime/1039/135444.jpg
+4461,Kouchou-sensei to Kujira,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/1024/103657.jpg
+4475,Toshi wo Totta Wani,Drama,Movie,1,6.5,https://cdn.myanimelist.net/images/anime/11/8561.jpg
+4484,"Umi no Yami, Tsuki no Kage",Drama,OVA,3,6.27,https://cdn.myanimelist.net/images/anime/13/37269.jpg
+4485,Kasei Yakyoku,Drama,OVA,4,6.93,https://cdn.myanimelist.net/images/anime/4/50129.jpg
+4503,Choujikuu Kidan Southern Cross,Drama,TV,23,6.77,https://cdn.myanimelist.net/images/anime/1564/96451.jpg
+4514,Seton Doubutsuki: Kuma no Ko Jacky,Drama,TV,26,6.72,https://cdn.myanimelist.net/images/anime/1431/113169.jpg
+4515,Seton Doubutsuki: Risu no Banner,Drama,TV,26,6.71,https://cdn.myanimelist.net/images/anime/11/78448.jpg
+4549,Hokuto no Ken: Raoh Gaiden Ten no Haoh,Drama,TV,13,7.2,https://cdn.myanimelist.net/images/anime/4/18181.jpg
+4614,Moero Arthur: Hakuba no Ouji,Drama,TV,22,6.37,https://cdn.myanimelist.net/images/anime/13/47187.jpg
+4617,Nana Toshi Monogatari: Hokkyokukai Sensen,Drama,OVA,2,6.49,https://cdn.myanimelist.net/images/anime/3/24572.jpg
+4618,RideBack,Drama,TV,12,7.38,https://cdn.myanimelist.net/images/anime/1834/133855.jpg
+4621,The Olympic Challenge,Drama,Movie,1,6.23,https://cdn.myanimelist.net/images/anime/11/29304.jpg
+4697,Chimera: Target I Datenshi Kourin,Drama,OVA,1,5.46,https://cdn.myanimelist.net/images/anime/7/8992.jpg
+4720,White Album,Drama,TV,13,6.74,https://cdn.myanimelist.net/images/anime/12/43537.jpg
+4723,Seishun Anime Zenshuu,Drama,TV,32,6.84,https://cdn.myanimelist.net/images/anime/2/9105.jpg
+4765,Gunslinger Girl: Il Teatrino OVA,Drama,OVA,2,7.13,https://cdn.myanimelist.net/images/anime/12/12641.jpg
+4790,Zeno: Kagirinaki Ai ni,Drama,Movie,1,6.76,https://cdn.myanimelist.net/images/anime/1246/93600.jpg
+4884,Tales of the Abyss,Drama,TV,26,7.47,https://cdn.myanimelist.net/images/anime/8/21243.jpg
+4908,Bihada Ichizoku,Drama,TV,12,5.87,https://cdn.myanimelist.net/images/anime/3/19268.jpg
+4928,Idol Tenshi Youkoso Yoko,Drama,TV,43,6.41,https://cdn.myanimelist.net/images/anime/12/46103.jpg
+4981,Casshern Sins,Drama,TV,24,7.61,https://cdn.myanimelist.net/images/anime/8/23336.jpg
+4985,Mahou Shoujo Lyrical Nanoha: The Movie 1st,Drama,Movie,1,8.04,https://cdn.myanimelist.net/images/anime/1058/94433.jpg
+5013,Juugo Shounen Hyouryuuki,Drama,Special,1,6.43,https://cdn.myanimelist.net/images/anime/8/9763.jpg
+5037,Terra e... (TV) Specials,Drama,Special,3,6.91,https://cdn.myanimelist.net/images/anime/11/60717.jpg
+5052,Eightman,Drama,TV,56,6.17,https://cdn.myanimelist.net/images/anime/4/73670.jpg
+5151,Mahjong Hishouden: Naki no Ryuu,Drama,OVA,3,6.39,https://cdn.myanimelist.net/images/anime/1556/96601.jpg
+5155,Genji Monogatari Sennenki,Drama,TV,11,7.04,https://cdn.myanimelist.net/images/anime/5/26659.jpg
+5167,Cream Lemon: New Generation,Drama,OVA,4,5.93,https://cdn.myanimelist.net/images/anime/8/62727.jpg
+5200,Offside (TV),Drama,TV,39,7.22,https://cdn.myanimelist.net/images/anime/3/10383.jpg
+5216,D.C.if: Da Capo if,Drama,OVA,2,7.29,https://cdn.myanimelist.net/images/anime/2/25445.jpg
+5220,Shangri-La,Drama,TV,24,7.16,https://cdn.myanimelist.net/images/anime/1780/121358.jpg
+5228,Initial D Extra Stage 2,Drama,OVA,1,7.54,https://cdn.myanimelist.net/images/anime/10/10462.jpg
+5237,Compiler Festa,Drama,OVA,1,5.77,https://cdn.myanimelist.net/images/anime/9/61471.jpg
+5332,Toshokan Sensou: Koi no Shougai,Drama,Special,1,7.47,https://cdn.myanimelist.net/images/anime/1531/101092.jpg
+5365,Tsumiki no Ie,Drama,Movie,1,8.27,https://cdn.myanimelist.net/images/anime/1063/117013.jpg
+5420,Kemono no Souja Erin,Drama,TV,50,8.45,https://cdn.myanimelist.net/images/anime/9/19845.jpg
+5469,Birthday Boy,Drama,Movie,1,6.21,https://cdn.myanimelist.net/images/anime/6/11253.jpg
+5472,Kokoro Toshokan: Communication Clips,Drama,Special,1,6.03,https://cdn.myanimelist.net/images/anime/11/11364.jpg
+5494,Konnichiwa Anne: Before Green Gables,Drama,TV,39,7.63,https://cdn.myanimelist.net/images/anime/13/54069.jpg
+5535,Tottoi,Drama,Movie,1,6.66,https://cdn.myanimelist.net/images/anime/10/31319.jpg
+5631,Kaumori,Drama,Movie,1,5.64,https://cdn.myanimelist.net/images/anime/5/11634.jpg
+5640,Tabidachi: Ami Shuushou,Drama,Movie,1,6.07,https://cdn.myanimelist.net/images/anime/5/11662.jpg
+5673,Apfelland Monogatari,Drama,Movie,1,6.19,https://cdn.myanimelist.net/images/anime/7/11782.jpg
+5678,Kobato.,Drama,TV,24,8.09,https://cdn.myanimelist.net/images/anime/8/79838.jpg
+5682,Phantom: Requiem for the Phantom,Drama,TV,26,8.16,https://cdn.myanimelist.net/images/anime/8/22470.jpg
+5689,Eien no Filena,Drama,OVA,6,6.25,https://cdn.myanimelist.net/images/anime/12/11803.jpg
+5719,Sex Pistols,Drama,OVA,2,7,https://cdn.myanimelist.net/images/anime/9/23742.jpg
+5832,Tiger Mask Nisei,Drama,TV,33,7.45,https://cdn.myanimelist.net/images/anime/9/71349.jpg
+5834,Kyojin no Hoshi,Drama,TV,182,7.12,https://cdn.myanimelist.net/images/anime/12/59519.jpg
+5854,Shin Chou Kyou Ryo: Condor Hero III,Drama,TV,26,7.58,https://cdn.myanimelist.net/images/anime/1383/90702.jpg
+5900,Jean Valjean Monogatari,Drama,Special,1,6.46,https://cdn.myanimelist.net/images/anime/10/30211.jpg
+5902,Hyakujitsu no Bara,Drama,OVA,2,7.06,https://cdn.myanimelist.net/images/anime/5/34517.jpg
+5916,Donguri no Ie,Drama,Movie,1,7,https://cdn.myanimelist.net/images/anime/6/12803.jpg
+5917,Tsuru ni Notte: Tomoko no Bouken,Drama,Movie,1,6.53,https://cdn.myanimelist.net/images/anime/3/12804.jpg
+5929,Hi no Ame ga Furu,Drama,Movie,1,7.55,https://cdn.myanimelist.net/images/anime/7/12821.jpg
+5933,Shiroi Kiba White Fang Monogatari,Drama,Special,1,6.63,https://cdn.myanimelist.net/images/anime/11/81828.jpg
+5936,Hashire! Shiroi Ookami,Drama,Movie,1,6.79,https://cdn.myanimelist.net/images/anime/6/29878.jpg
+6012,Kinpatsu no Jeanie,Drama,TV,13,6.53,https://cdn.myanimelist.net/images/anime/11/58201.jpg
+6018,Patchin shite! Obaachan,Drama,Movie,1,6.83,https://cdn.myanimelist.net/images/anime/10/13105.jpg
+6076,&quot;Eiji&quot;,Drama,OVA,1,6.13,https://cdn.myanimelist.net/images/anime/7/38319.jpg
+6087,Jetter Mars,Drama,TV,27,6.75,https://cdn.myanimelist.net/images/anime/5/75840.jpg
+6114,Rainbow: Nisha Rokubou no Shichinin,Drama,TV,26,8.64,https://cdn.myanimelist.net/images/anime/9/72697.jpg
+6165,White Album 2nd Season,Drama,TV,13,7.04,https://cdn.myanimelist.net/images/anime/7/43541.jpg
+6182,Maihime,Drama,OVA,1,7.12,https://cdn.myanimelist.net/images/anime/5/13677.jpg
+6211,Tokyo Magnitude 8.0,Drama,TV,11,8.19,https://cdn.myanimelist.net/images/anime/10/13776.jpg
+6226,Utawarerumono Recaps,Drama,Special,2,6.62,https://cdn.myanimelist.net/images/anime/5/14138.jpg
+6227,Lovedol: Lovely Idol OVA,Drama,OVA,1,6.4,https://cdn.myanimelist.net/images/anime/12/65169.jpg
+6229,Konpeki no Kantai,Drama,OVA,32,6.85,https://cdn.myanimelist.net/images/anime/1215/93008.jpg
+6230,Kyokujitsu no Kantai,Drama,OVA,15,6.79,https://cdn.myanimelist.net/images/anime/13/13883.jpg
+6246,Black Jack: Sora kara Kita Kodomo,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/9/88341.jpg
+6261,Koguma no Misha,Drama,TV,26,6.42,https://cdn.myanimelist.net/images/anime/3/71237.jpg
+6266,Joseito,Drama,OVA,1,5.81,https://cdn.myanimelist.net/images/anime/6/81193.jpg
+6344,Shikabane Hime: Kuro Special,Drama,Special,1,7.12,https://cdn.myanimelist.net/images/anime/4/73631.jpg
+6361,ef: A Tale of Memories. - Prologue,Drama,Special,1,7.26,https://cdn.myanimelist.net/images/anime/13/26046.jpg
+6366,Karuizawa Syndrome,Drama,OVA,1,6.27,https://cdn.myanimelist.net/images/anime/1611/112297.jpg
+6397,Tentou Mushi no Uta,Drama,TV,104,6.48,https://cdn.myanimelist.net/images/anime/12/51187.jpg
+6509,Kiteretsu Daihyakka,Drama,TV,331,6.63,https://cdn.myanimelist.net/images/anime/1872/133507.jpg
+6547,Angel Beats!,Drama,TV,13,8.39,https://cdn.myanimelist.net/images/anime/1244/111115.jpg
+6728,Helen Keller Monogatari: Ai to Hikari no Tenshi,Drama,Movie,1,6.73,https://cdn.myanimelist.net/images/anime/9/15467.jpg
+6774,Kuuchuu Buranko,Drama,TV,11,8.09,https://cdn.myanimelist.net/images/anime/3/18386.jpg
+6867,Halo Legends,Drama,ONA,9,7.18,https://cdn.myanimelist.net/images/anime/12/16013.jpg
+6875,Iron Man,Drama,TV,12,6.25,https://cdn.myanimelist.net/images/anime/13/26227.jpg
+6895,Hakuouki,Drama,TV,12,7.57,https://cdn.myanimelist.net/images/anime/3/71800.jpg
+6919,X-Men,Drama,TV,12,6.51,https://cdn.myanimelist.net/images/anime/1472/121994.jpg
+6920,Blade,Drama,TV,12,6.34,https://cdn.myanimelist.net/images/anime/1945/103220.jpg
+6937,Hermes: Ai wa Kaze no Gotoku,Drama,Movie,1,5.56,https://cdn.myanimelist.net/images/anime/1916/112361.jpg
+6978,Kyoufu Densetsu Kaiki! Frankenstein,Drama,Special,1,5.69,https://cdn.myanimelist.net/images/anime/10/16281.jpg
+7014,Tezuka Osamu no Buddha: Akai Sabaku yo! Utsukushiku,Drama,Movie,1,7.11,https://cdn.myanimelist.net/images/anime/1931/98079.jpg
+7059,BlackÃ¢Ëœâ€¦Rock Shooter (OVA),Drama,OVA,1,7.24,https://cdn.myanimelist.net/images/anime/6/22417.jpg
+7117,Pika Don,Drama,Movie,1,6.59,https://cdn.myanimelist.net/images/anime/7/16657.jpg
+7144,Uchuu Senkan Yamato: Fukkatsu-hen,Drama,Movie,1,7.19,https://cdn.myanimelist.net/images/anime/7/83052.jpg
+7169,Ibara-Hime matawa Nemuri-Hime,Drama,Movie,1,6.32,https://cdn.myanimelist.net/images/anime/9/81213.jpg
+7193,Aoi Bungaku Series,Drama,TV,12,7.9,https://cdn.myanimelist.net/images/anime/10/17471.jpg
+7229,Black Jack ONA,Drama,ONA,12,6.82,https://cdn.myanimelist.net/images/anime/5/17826.jpg
+7270,Mobile Suit Gundam 00 Special Edition,Drama,OVA,3,7.77,https://cdn.myanimelist.net/images/anime/11/17217.jpg
+7285,Ginga Tetsudou 999: Diamond Ring no Kanata e,Drama,Movie,1,6.75,https://cdn.myanimelist.net/images/anime/4/17336.jpg
+7308,Mirai Shounen Conan (Movie),Drama,Movie,1,7.16,https://cdn.myanimelist.net/images/anime/1866/99158.jpg
+7374,100%,Drama,OVA,1,5.64,https://cdn.myanimelist.net/images/anime/4/17650.jpg
+7377,Winter Sonata Episode 0,Drama,Special,1,6.57,https://cdn.myanimelist.net/images/anime/12/17652.jpg
+7420,Byulbyul Iyagi,Drama,Movie,6,6.1,https://cdn.myanimelist.net/images/anime/3/17743.jpg
+7504,Bologee Story,Drama,ONA,1,5.62,https://cdn.myanimelist.net/images/anime/2/18010.jpg
+7510,Shisha no Sho,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/3/18021.jpg
+7571,Kita e.: Diamond Dust Drops Special,Drama,Special,1,6.52,https://cdn.myanimelist.net/images/anime/1263/129084.jpg
+7578,Gokinjo Monogatari the Movie,Drama,Movie,1,6.6,https://cdn.myanimelist.net/images/anime/11/21012.jpg
+7616,Michi,Drama,Movie,4,8,https://cdn.myanimelist.net/images/anime/5/70897.jpg
+7629,The Arari Show,Drama,TV,26,6.5,https://cdn.myanimelist.net/images/anime/3/18351.jpg
+7651,Ningen Shikkaku: Director&#039;s Cut-ban,Drama,Movie,1,7.64,https://cdn.myanimelist.net/images/anime/6/24794.jpg
+7654,Tokyo Magnitude 8.0 Recap,Drama,Special,1,7.18,https://cdn.myanimelist.net/images/anime/6/18435.jpg
+7655,Major S6,Drama,TV,25,8.49,https://cdn.myanimelist.net/images/anime/2/75216.jpg
+7661,Giant Killing,Drama,TV,26,7.71,https://cdn.myanimelist.net/images/anime/13/30191.jpg
+7683,Suiren no Hito,Drama,Movie,1,6,https://cdn.myanimelist.net/images/anime/1266/113004.jpg
+7775,Futatsu no Kurumi,Drama,Special,1,6.67,https://cdn.myanimelist.net/images/anime/9/18829.jpg
+7877,"Momoko, Kaeru no Uta ga Kikoeru yo.",Drama,Movie,1,7.56,https://cdn.myanimelist.net/images/anime/1162/112724.jpg
+7967,Hiroshima ni Ichiban Densha ga Hashitta,Drama,Movie,1,7.07,https://cdn.myanimelist.net/images/anime/1684/134254.jpg
+8017,Soukou Kihei Votoms: Gen-ei Hen,Drama,OVA,6,6.97,https://cdn.myanimelist.net/images/anime/1553/97716.jpg
+8098,Soukyuu no Fafner: Dead Aggressor - Heaven and Earth,Drama,Movie,1,7.46,https://cdn.myanimelist.net/images/anime/5/31163.jpg
+8120,Gotou ni Naritai.,Drama,Movie,1,7.29,https://cdn.myanimelist.net/images/anime/1831/112918.jpg
+8142,Colorful (Movie),Drama,Movie,1,8.06,https://cdn.myanimelist.net/images/anime/1839/103426.jpg
+8230,True Tears Epilogue,Drama,Music,1,6.78,https://cdn.myanimelist.net/images/anime/6/21290.jpg
+8248,Soukou Kihei Votoms: Case; Irvine,Drama,OVA,1,6.69,https://cdn.myanimelist.net/images/anime/7/23338.jpg
+8249,Votoms Finder,Drama,OVA,1,6.39,https://cdn.myanimelist.net/images/anime/10/23339.jpg
+8250,Soukou Kihei Votoms: Koei Futatabi,Drama,OVA,1,7.15,https://cdn.myanimelist.net/images/anime/4/82162.jpg
+8403,Bonobono: Kumomo no Ki no Koto,Drama,Movie,1,6,https://cdn.myanimelist.net/images/anime/11/22155.jpg
+8415,Oi! Ryouma,Drama,TV,39,6.48,https://cdn.myanimelist.net/images/anime/11/71603.jpg
+8426,Hourou Musuko,Drama,TV,11,7.8,https://cdn.myanimelist.net/images/anime/13/53945.jpg
+8450,Guskou Budori no Denki,Drama,Movie,1,6.49,https://cdn.myanimelist.net/images/anime/2/22300.jpg
+8451,Donguri to Yamaneko,Drama,OVA,1,6.35,https://cdn.myanimelist.net/images/anime/1784/134346.jpg
+8475,Asura,Drama,Movie,1,7.23,https://cdn.myanimelist.net/images/anime/7/44289.jpg
+8533,Hana no Kage,Drama,ONA,1,6.37,https://cdn.myanimelist.net/images/anime/6/23152.jpg
+8554,Hashire Melos,Drama,Special,1,5.83,https://cdn.myanimelist.net/images/anime/4/76807.jpg
+8563,Chikyuu Monogatari Telepath 2500,Drama,Movie,1,5.52,https://cdn.myanimelist.net/images/anime/3/23296.jpg
+8584,Future War 198X-nen,Drama,Movie,1,6.35,https://cdn.myanimelist.net/images/anime/1943/100161.jpg
+8718,Itsumademo Tabibito,Drama,Music,1,5.48,https://cdn.myanimelist.net/images/anime/8/24054.jpg
+8777,Nobara no Julie,Drama,TV,13,5.96,https://cdn.myanimelist.net/images/anime/3/24215.jpg
+8861,"Yosuga no Sora: In Solitude, Where We Are Least Alone.",Drama,TV,12,6.72,https://cdn.myanimelist.net/images/anime/5/76216.jpg
+8896,Natsufuku no Shoujo-tachi,Drama,Special,1,6.41,https://cdn.myanimelist.net/images/anime/3/24680.jpg
+8936,Melody,Drama,ONA,1,5.99,https://cdn.myanimelist.net/images/anime/4/24789.jpg
+8967,Hidari no O&#039;Clock!!,Drama,OVA,2,6.59,https://cdn.myanimelist.net/images/anime/10/24830.jpg
+9055,Tamayura,Drama,OVA,4,7.23,https://cdn.myanimelist.net/images/anime/1612/132744.jpg
+9065,Hakuouki Hekketsuroku,Drama,TV,10,7.76,https://cdn.myanimelist.net/images/anime/12/71797.jpg
+9163,Attack No.1 (1970),Drama,Movie,1,6.45,https://cdn.myanimelist.net/images/anime/4/25375.jpg
+9164,Attack No.1: Namida no Fushichou,Drama,Movie,1,6.31,https://cdn.myanimelist.net/images/anime/3/25377.jpg
+9165,Attack No.1: Namida no Kaiten Receive,Drama,Movie,1,6.37,https://cdn.myanimelist.net/images/anime/5/25378.jpg
+9166,Attack No.1: Namida no Sekai Senshuken,Drama,Movie,1,6.49,https://cdn.myanimelist.net/images/anime/1490/135448.jpg
+9228,Wan Wan Chuushingura,Drama,Movie,1,6.12,https://cdn.myanimelist.net/images/anime/1761/112852.jpg
+9254,Mianhada Saranghanda,Drama,Movie,1,6.36,https://cdn.myanimelist.net/images/anime/4/26440.jpg
+9264,Hana no Ko Lunlun: Konnichiwa Sakura no Kuni,Drama,Movie,1,6.07,https://cdn.myanimelist.net/images/anime/1444/98767.jpg
+9279,Bara no Hana to Joe,Drama,Movie,1,5.92,https://cdn.myanimelist.net/images/anime/1171/112337.jpg
+9289,Hanasaku Iroha,Drama,TV,26,8.03,https://cdn.myanimelist.net/images/anime/1491/117229.jpg
+9338,Ore no Sora Keiji-hen,Drama,OVA,2,6,https://cdn.myanimelist.net/images/anime/8/25868.jpg
+9349,Shizukanaru Don: Yakuza Side Story,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/13/25895.jpg
+9351,Geunyeoneun Yeppeotda,Drama,Movie,1,6.65,https://cdn.myanimelist.net/images/anime/2/25901.jpg
+9353,D.C. I&amp;II P.S.P. Re-Animated,Drama,OVA,1,6.83,https://cdn.myanimelist.net/images/anime/12/26017.jpg
+9383,Chie-chan Funsenki: Jarinko Chie,Drama,TV,39,7.83,https://cdn.myanimelist.net/images/anime/12/26026.jpg
+9447,Byulbyul Iyagi 2,Drama,Movie,6,5.86,https://cdn.myanimelist.net/images/anime/13/26149.jpg
+9467,Kanojo ga Mimai ni Konai Wake,Drama,OVA,3,6.41,https://cdn.myanimelist.net/images/anime/1689/116770.jpg
+9494,Soukyuu no Fafner: Arcadian Memory,Drama,OVA,2,6.67,https://cdn.myanimelist.net/images/anime/1472/136040.jpg
+9495,Inochi no Chikyuu: Dioxin no Natsu,Drama,Movie,1,6.73,https://cdn.myanimelist.net/images/anime/9/26263.jpg
+9525,Junod,Drama,Special,1,6.97,https://cdn.myanimelist.net/images/anime/9/26355.jpg
+9546,Shirahata no Shoujo Ryuuko,Drama,Movie,1,7.19,https://cdn.myanimelist.net/images/anime/8/26442.jpg
+9547,Alps no Shoujo Heidi (1979),Drama,Movie,1,7,https://cdn.myanimelist.net/images/anime/6/26447.jpg
+9548,Alps no Shoujo Heidi: Alm no Yama-hen,Drama,Movie,1,6.67,https://cdn.myanimelist.net/images/anime/6/26448.jpg
+9549,Alps no Shoujo Heidi: Heidi to Clara-hen,Drama,Movie,1,6.72,https://cdn.myanimelist.net/images/anime/9/26449.jpg
+9568,Peace Maker Kurogane Special,Drama,Special,1,6.95,https://cdn.myanimelist.net/images/anime/7/26485.jpg
+9693,Moshidora,Drama,TV,10,7.01,https://cdn.myanimelist.net/images/anime/9/29166.jpg
+9723,Hakuouki Hekketsuroku Episode 0,Drama,Special,1,7.16,https://cdn.myanimelist.net/images/anime/9/26949.jpg
+9756,Mahou Shoujo MadokaÃ¢Ëœâ€¦Magica,Drama,TV,12,8.51,https://cdn.myanimelist.net/images/anime/11/55225.jpg
+9761,Finder Series,Drama,OVA,2,6.7,https://cdn.myanimelist.net/images/anime/2/36823.jpg
+9773,Lady Lady!! (1988),Drama,Movie,1,6.83,https://cdn.myanimelist.net/images/anime/4/27066.jpg
+9837,Emblem Take 2,Drama,OVA,2,6.81,https://cdn.myanimelist.net/images/anime/7/27231.jpg
+9866,Oshin,Drama,Movie,1,7.96,https://cdn.myanimelist.net/images/anime/6/29978.jpg
+9890,Major: Message,Drama,OVA,1,8.36,https://cdn.myanimelist.net/images/anime/11/75219.jpg
+9922,Oretachi ni Tsubasa wa Nai: Under the Innocent Sky.,Drama,TV,12,6.88,https://cdn.myanimelist.net/images/anime/9/75449.jpg
+9931,Happy Birthday: Inochi Kagayaku Toki,Drama,Movie,1,7.48,https://cdn.myanimelist.net/images/anime/1567/94728.jpg
+9935,Chocolat no Mahou,Drama,OVA,13,6.37,https://cdn.myanimelist.net/images/anime/6/35601.jpg
+9940,Mai no Mahou to Katei no Hi,Drama,Special,1,6.09,https://cdn.myanimelist.net/images/anime/1475/127171.jpg
+9959,Raiyantsuuri no Uta,Drama,Movie,1,7.51,https://cdn.myanimelist.net/images/anime/12/27526.jpg
+9976,Wakaranai Buta,Drama,Movie,1,4.92,https://cdn.myanimelist.net/images/anime/13/27618.jpg
+9989,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.,Drama,TV,11,8.62,https://cdn.myanimelist.net/images/anime/5/79697.jpg
+9993,Samuraider: Nazo no Tenkousei,Drama,OVA,1,5.82,https://cdn.myanimelist.net/images/anime/12/27645.jpg
+9998,Chuuhai Lemon: Love 30s - Ame ni Nurete mo,Drama,OVA,1,6.05,https://cdn.myanimelist.net/images/anime/6/27716.jpg
+10013,Shouwa Monogatari (Movie),Drama,Movie,1,6.49,https://cdn.myanimelist.net/images/anime/8/41119.jpg
+10014,Shouwa Monogatari,Drama,TV,13,7.06,https://cdn.myanimelist.net/images/anime/5/41117.jpg
+10048,Fuyu no Semi: Tokubetsu Henshuuhan,Drama,OVA,1,7.44,https://cdn.myanimelist.net/images/anime/9/27755.jpg
+10067,Angel Beats!: Another Epilogue,Drama,Special,1,7.63,https://cdn.myanimelist.net/images/anime/1399/131410.jpg
+10098,Kobato.: Hajimete no Kobato.,Drama,Special,8,6.88,https://cdn.myanimelist.net/images/anime/6/36685.jpg
+10118,Ginga Tetsudou 999: Jikuu wo Koeta Energy no Tabi,Drama,ONA,5,6.67,https://cdn.myanimelist.net/images/anime/11/27897.jpg
+10153,Mahou Shoujo Lyrical Nanoha: The Movie 2nd A&#039;s,Drama,Movie,1,8.34,https://cdn.myanimelist.net/images/anime/1511/94432.jpg
+10178,Otona Joshi no Anime Time,Drama,Special,4,7.52,https://cdn.myanimelist.net/images/anime/11/28531.jpg
+10232,Tamayura: Hitotose,Drama,TV,12,7.32,https://cdn.myanimelist.net/images/anime/13/45368.jpg
+10278,The iDOLM@STER,Drama,TV,25,7.75,https://cdn.myanimelist.net/images/anime/9/41085.jpg
+10354,Kakomareta Sekai,Drama,ONA,1,6.22,https://cdn.myanimelist.net/images/anime/2/28454.jpg
+10375,Denshinbashira no Okaasan,Drama,Movie,1,5.82,https://cdn.myanimelist.net/images/anime/1351/130013.jpg
+10389,Momo e no Tegami,Drama,Movie,1,7.78,https://cdn.myanimelist.net/images/anime/1149/107242.jpg
+10448,Rain Town,Drama,ONA,1,7.38,https://cdn.myanimelist.net/images/anime/5/29062.jpg
+10466,Phantom Yuusha Densetsu,Drama,OVA,1,5.44,https://cdn.myanimelist.net/images/anime/8/28745.jpg
+10500,Ojiisan no Lamp,Drama,Movie,1,7.71,https://cdn.myanimelist.net/images/anime/9/76455.jpg
+10516,Anemone,Drama,OVA,1,6.69,https://cdn.myanimelist.net/images/anime/4/28918.jpg
+10554,Yakyuukyou no Uta,Drama,TV,25,7.15,https://cdn.myanimelist.net/images/anime/1998/138510.jpg
+10563,Yakyuukyou no Uta: Kita no Ookami Minami no Tora,Drama,Movie,1,6.35,https://cdn.myanimelist.net/images/anime/9/29016.jpg
+10688,Muybridge no Ito,Drama,Movie,1,6.19,https://cdn.myanimelist.net/images/anime/13/29443.jpg
+10709,Manga Nihon Keizai Nyuumon,Drama,TV,25,6.67,https://cdn.myanimelist.net/images/anime/9/29513.jpg
+10718,Soliton no Akuma,Drama,Movie,1,6.17,https://cdn.myanimelist.net/images/anime/1841/116383.jpg
+10723,Sojunghan Nal-ui Kkum,Drama,Movie,1,6.62,https://cdn.myanimelist.net/images/anime/5/29569.jpg
+10741,Jingi,Drama,OVA,2,5.86,https://cdn.myanimelist.net/images/anime/12/29575.jpg
+10742,Saru to Kani no Gassen,Drama,Movie,1,5.06,https://cdn.myanimelist.net/images/anime/4/83742.jpg
+10743,Tora-chan no Kankan Mushi,Drama,Movie,1,5.29,https://cdn.myanimelist.net/images/anime/11/69031.jpg
+10760,Issunboushi,Drama,Movie,1,6,https://cdn.myanimelist.net/images/anime/1091/101185.jpg
+10800,Chihayafuru,Drama,TV,25,8.32,https://cdn.myanimelist.net/images/anime/3/35749.jpg
+10813,Alps no Shoujo Heidi Pilot,Drama,Special,1,5.84,https://cdn.myanimelist.net/images/anime/2/29867.jpg
+10901,Aoi Hitomi no Onnanoko no Ohanashi,Drama,Special,1,6.34,https://cdn.myanimelist.net/images/anime/5/30086.jpg
+10935,Hourou Musuko Specials,Drama,Special,2,7.7,https://cdn.myanimelist.net/images/anime/7/30177.jpg
+10964,Heavy,Drama,Movie,1,6.2,https://cdn.myanimelist.net/images/anime/12/30317.jpg
+11097,Zou no Inai Doubutsuen,Drama,Movie,1,6.07,https://cdn.myanimelist.net/images/anime/10/30721.jpg
+11285,BlackÃ¢Ëœâ€¦Rock Shooter (TV),Drama,TV,8,7.07,https://cdn.myanimelist.net/images/anime/5/53909.jpg
+11441,Rurouni Kenshin: Meiji Kenkaku Romantan - Shin Kyoto-hen,Drama,OVA,2,7.15,https://cdn.myanimelist.net/images/anime/2/39663.jpg
+11545,Happyakuyachou Hyouri Kewaishi,Drama,TV,16,5.68,https://cdn.myanimelist.net/images/anime/10/32257.jpg
+11561,Sougen no Ko Tenguri,Drama,Movie,1,6.3,https://cdn.myanimelist.net/images/anime/8/32231.jpg
+11663,Hakuouki OVA,Drama,OVA,2,7.64,https://cdn.myanimelist.net/images/anime/9/32507.jpg
+11693,Match Uri no Shoujo,Drama,Movie,1,6.21,https://cdn.myanimelist.net/images/anime/5/32635.jpg
+11793,"Tamayura: Hitotose - Attakai Kaze no Omoide, Nanode",Drama,Special,1,7.44,https://cdn.myanimelist.net/images/anime/12/71632.jpg
+11867,Cipher,Drama,OVA,1,5.15,https://cdn.myanimelist.net/images/anime/11/33203.jpg
+11889,The iDOLM@STER: 765 Pro to Iu Monogatari,Drama,Special,1,7.58,https://cdn.myanimelist.net/images/anime/3/70521.jpg
+11917,Major: World Series,Drama,OVA,2,8.5,https://cdn.myanimelist.net/images/anime/5/75220.jpg
+11977,Mahou Shoujo MadokaÃ¢Ëœâ€¦Magica Movie 1: Hajimari no Monogatari,Drama,Movie,1,8.31,https://cdn.myanimelist.net/images/anime/6/42331.jpg
+11979,Mahou Shoujo MadokaÃ¢Ëœâ€¦Magica Movie 2: Eien no Monogatari,Drama,Movie,1,8.49,https://cdn.myanimelist.net/images/anime/6/42265.jpg
+11981,Mahou Shoujo MadokaÃ¢Ëœâ€¦Magica Movie 3: Hangyaku no Monogatari,Drama,Movie,1,8.5,https://cdn.myanimelist.net/images/anime/5/54231.jpg
+12027,Anne no Nikki: Anne Frank Monogatari,Drama,Special,1,6.86,https://cdn.myanimelist.net/images/anime/1344/134341.jpg
+12035,Dwaejiui Wang,Drama,Movie,1,7.03,https://cdn.myanimelist.net/images/anime/1842/112771.jpg
+12163,Ginga Tetsudou 999: Hoshizora wa Time Machine,Drama,Movie,1,6.99,https://cdn.myanimelist.net/images/anime/8/34337.jpg
+12259,Mikeneko Holmes no Yuurei Joushu,Drama,OVA,1,6.53,https://cdn.myanimelist.net/images/anime/13/34521.jpg
+12337,Soukou Kihei Votoms Recaps,Drama,OVA,4,6.52,https://cdn.myanimelist.net/images/anime/12/34941.jpg
+12439,Soukou Kihei Votoms: Vol.1 Stories of the &#039;A.T. Votoms&#039;,Drama,OVA,1,6.6,https://cdn.myanimelist.net/images/anime/1326/94489.jpg
+12441,Soukou Kihei Votoms: Vol.2 Highlights of the &#039;A.T. Votoms&#039;,Drama,OVA,1,6.55,https://cdn.myanimelist.net/images/anime/13/53115.jpg
+12471,Eureka Seven AO,Drama,TV,24,6.88,https://cdn.myanimelist.net/images/anime/11/36313.jpg
+12599,Ijime: Ikenie no Kyoushitsu,Drama,OVA,1,5.46,https://cdn.myanimelist.net/images/anime/8/35317.jpg
+12603,Tora-chan to Hanayome,Drama,Movie,1,5.72,https://cdn.myanimelist.net/images/anime/13/35301.jpg
+12725,Initial D: Project D to the Next Stage - Project D e Mukete,Drama,Special,1,7.69,https://cdn.myanimelist.net/images/anime/12/35739.jpg
+12791,Yankee Reppuu-tai,Drama,OVA,6,5.88,https://cdn.myanimelist.net/images/anime/1468/98670.jpg
+12867,Tsuki no Sango,Drama,Movie,1,6.35,https://cdn.myanimelist.net/images/anime/9/76214.jpg
+12877,Bokurano Recap,Drama,Special,1,6.26,https://cdn.myanimelist.net/images/anime/8/36163.jpg
+12905,Tsuki ga Noboru made ni,Drama,OVA,1,5.88,https://cdn.myanimelist.net/images/anime/8/36215.jpg
+13115,Hakuouki Reimeiroku,Drama,TV,12,7.63,https://cdn.myanimelist.net/images/anime/11/71798.jpg
+13117,Hakuouki Movie 1: Kyoto Ranbu,Drama,Movie,1,7.94,https://cdn.myanimelist.net/images/anime/9/49399.jpg
+13119,Hakuouki Movie 2: Shikon Soukyuu,Drama,Movie,1,8.03,https://cdn.myanimelist.net/images/anime/12/71796.jpg
+13175,Shiranpuri (Movie),Drama,Movie,1,6.38,https://cdn.myanimelist.net/images/anime/4/50407.jpg
+13335,Fuse: Teppou Musume no Torimonochou,Drama,Movie,1,7.52,https://cdn.myanimelist.net/images/anime/3/37313.jpg
+13497,Neko no Sumu Shima,Drama,Special,1,5,https://cdn.myanimelist.net/images/anime/9/37685.jpg
+13551,Shuukan Storyland,Drama,TV,56,6.27,https://cdn.myanimelist.net/images/anime/13/37873.jpg
+13655,Little Busters!,Drama,TV,26,7.64,https://cdn.myanimelist.net/images/anime/6/43757.jpg
+13691,Taisei Kensetsu: Shin Doha Kokusai Kuukou,Drama,Special,1,6.07,https://cdn.myanimelist.net/images/anime/7/47431.jpg
+13757,Mashiro-iro Symphony: The Color of Lovers Picture Drama,Drama,Special,2,6.55,https://cdn.myanimelist.net/images/anime/1316/130375.jpg
+14145,"Hanayaka Nari, Waga Ichizoku: Kinetograph",Drama,OVA,2,6.64,https://cdn.myanimelist.net/images/anime/2/45356.jpg
+14175,Hanasaku Iroha: Home Sweet Home,Drama,Movie,1,7.99,https://cdn.myanimelist.net/images/anime/9/70701.jpg
+14247,Lunn wa Kaze no Naka,Drama,OVA,1,6.35,https://cdn.myanimelist.net/images/anime/1281/99965.jpg
+14347,Ryo,Drama,Movie,1,6.01,https://cdn.myanimelist.net/images/anime/1459/116393.jpg
+14397,Chihayafuru 2,Drama,TV,25,8.52,https://cdn.myanimelist.net/images/anime/6/47435.jpg
+14835,The iDOLM@STER Shiny Festa,Drama,OVA,3,7.32,https://cdn.myanimelist.net/images/anime/12/43475.jpg
+14875,Eureka Seven AO: Jungfrau no Hanabana-tachi,Drama,OVA,1,6.44,https://cdn.myanimelist.net/images/anime/6/40311.jpg
+15021,Yuki no Taiyou Pilot,Drama,Special,1,5.58,https://cdn.myanimelist.net/images/anime/7/76446.jpg
+15039,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie,Drama,Movie,1,8.19,https://cdn.myanimelist.net/images/anime/5/49993.jpg
+15045,Litchi DE Hikari Club,Drama,TV,8,5.36,https://cdn.myanimelist.net/images/anime/1083/116746.jpg
+15059,Initial D Fifth Stage,Drama,TV,14,8.14,https://cdn.myanimelist.net/images/anime/1563/119898.jpg
+15227,Kono Sekai no Katasumi ni,Drama,Movie,1,8.14,https://cdn.myanimelist.net/images/anime/2/87704.jpg
+15393,Sakura no Ondo,Drama,Movie,1,6.38,https://cdn.myanimelist.net/images/anime/3/42283.jpg
+15607,Ai no Wakakusa Monogatari Specials,Drama,Special,2,6.47,https://cdn.myanimelist.net/images/anime/6/42395.jpg
+15731,Tamayura: More Aggressive,Drama,TV,12,7.54,https://cdn.myanimelist.net/images/anime/3/53895.jpg
+15815,"Yakeato no, Okashi no Ki",Drama,Special,1,6.92,https://cdn.myanimelist.net/images/anime/9/42867.jpg
+16233,Yowai Mushi,Drama,Special,1,6.34,https://cdn.myanimelist.net/images/anime/12/68995.jpg
+16434,Penguin&#039;s Memory: Shiawase Monogatari,Drama,Movie,1,7.32,https://cdn.myanimelist.net/images/anime/10/44572.jpg
+16458,Perrine Monogatari Movie,Drama,Movie,1,6.69,https://cdn.myanimelist.net/images/anime/3/44400.jpg
+16460,Perrine Monogatari Specials,Drama,Special,2,6.53,https://cdn.myanimelist.net/images/anime/3/44402.jpg
+16662,Kaze Tachinu,Drama,Movie,1,8.24,https://cdn.myanimelist.net/images/anime/8/52353.jpg
+16690,My Life,Drama,ONA,1,6.52,https://cdn.myanimelist.net/images/anime/12/45008.jpg
+16752,Haedori Daemoheom,Drama,Movie,1,5.1,https://cdn.myanimelist.net/images/anime/11/45062.jpg
+16776,Hurdle,Drama,Movie,1,5.14,https://cdn.myanimelist.net/images/anime/9/45116.jpg
+17080,Soukyuu no Fafner: Dead Aggressor - Exodus,Drama,TV,13,7.44,https://cdn.myanimelist.net/images/anime/5/68565.jpg
+17117,Aoi Kioku: Manmou Kaitaku to Shounen-tachi,Drama,Movie,1,6.45,https://cdn.myanimelist.net/images/anime/3/45755.jpg
+17121,Dareka no Manazashi,Drama,Movie,1,7.57,https://cdn.myanimelist.net/images/anime/9/46741.jpg
+17131,Dennou Sentai Voogie&#039;sÃ¢Ëœâ€¦Angel: Forever and Ever,Drama,OVA,1,5.1,https://cdn.myanimelist.net/images/anime/1036/96489.jpg
+17157,Nozoki Ana,Drama,OVA,1,6.63,https://cdn.myanimelist.net/images/anime/1393/116601.jpg
+17217,Kankara Sanshin,Drama,Movie,1,8,https://cdn.myanimelist.net/images/anime/2/45973.jpg
+17221,Shin Kabukichou Story Hana no Asukagumi!,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/1068/132139.jpg
+17223,Hana no Asukagumi! 2: Lonely Cats Battle Royale,Drama,OVA,1,5.3,https://cdn.myanimelist.net/images/anime/2/45979.jpg
+17277,Code Geass: Soubou no Oz Picture Drama,Drama,OVA,5,6.61,https://cdn.myanimelist.net/images/anime/9/61133.jpg
+17295,Cosmic Break,Drama,ONA,4,6.32,https://cdn.myanimelist.net/images/anime/12/46191.jpg
+17307,Dr. Typhoon,Drama,OVA,1,6.15,https://cdn.myanimelist.net/images/anime/11/46205.jpg
+17423,Pink Lady Monogatari: Eikou no Tenshi-tachi,Drama,TV,33,6.33,https://cdn.myanimelist.net/images/anime/6/46585.jpg
+17427,Sabaku no Takara no Shiro,Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/4/46595.jpg
+17437,The iDOLM@STER Movie: Kagayaki no Mukougawa e!,Drama,Movie,1,7.66,https://cdn.myanimelist.net/images/anime/2/71801.jpg
+17439,Kyojin no Hoshi (Movie),Drama,Movie,1,6.13,https://cdn.myanimelist.net/images/anime/12/46611.jpg
+17441,Kyojin no Hoshi: Chizome no Kesshousen,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/1028/139180.jpg
+17443,Kyojin no Hoshi: Ike Ike Hyuuma,Drama,Movie,1,6.57,https://cdn.myanimelist.net/images/anime/1591/139177.jpg
+17445,Kyojin no Hoshi: Dai League Ball,Drama,Movie,1,5.86,https://cdn.myanimelist.net/images/anime/1367/139181.jpg
+17447,Kyojin no Hoshi: Shukumei no Taiketsu,Drama,Movie,1,4.75,https://cdn.myanimelist.net/images/anime/1962/139176.jpg
+17467,Otoko Ippiki Gaki Daishou,Drama,TV,156,7.2,https://cdn.myanimelist.net/images/anime/1179/95335.jpg
+17493,Ashita Genki ni Nare!: Hanbun no Satsumaimo,Drama,Movie,1,6.74,https://cdn.myanimelist.net/images/anime/8/46947.jpg
+17501,Abe George Kattobi Seishun Ki: Shibuya Honky Tonk,Drama,OVA,4,4.79,https://cdn.myanimelist.net/images/anime/3/46761.jpg
+17619,Souya Monogatari,Drama,TV,21,6.71,https://cdn.myanimelist.net/images/anime/12/47045.jpg
+17655,Mobile Suit Gundam AGE: Memory of Eden,Drama,OVA,2,6.76,https://cdn.myanimelist.net/images/anime/5/52775.jpg
+17665,Dohyou no Oni-tachi,Drama,Movie,1,5.83,https://cdn.myanimelist.net/images/anime/1442/134339.jpg
+17677,Buki yo Saraba,Drama,Movie,1,7.15,https://cdn.myanimelist.net/images/anime/4/53169.jpg
+17689,Chironup no Kitsune,Drama,Movie,1,7.48,https://cdn.myanimelist.net/images/anime/4/47185.jpg
+17721,Rennyo Monogatari,Drama,Movie,1,7.8,https://cdn.myanimelist.net/images/anime/9/47227.jpg
+17893,Cheonbangjichuk Hani,Drama,TV,13,6.78,https://cdn.myanimelist.net/images/anime/11/48715.jpg
+17947,Mahou Shoujo Lyrical Nanoha Reflection,Drama,Movie,1,nan,https://cdn.myanimelist.net/images/anime/11/88348.jpg
+17959,Tetsuwan Atom: Atom Tanjou no Himitsu,Drama,Movie,1,6.35,https://cdn.myanimelist.net/images/anime/2/47837.jpg
+18041,Rozen Maiden (2013),Drama,TV,13,7.44,https://cdn.myanimelist.net/images/anime/10/52079.jpg
+18323,Jangdokdae,Drama,Movie,1,4.36,https://cdn.myanimelist.net/images/anime/10/88066.jpg
+18451,Don: Gokudou Suikoden,Drama,OVA,2,5.36,https://cdn.myanimelist.net/images/anime/2/49405.jpg
+18557,High School Agent,Drama,OVA,2,6.04,https://cdn.myanimelist.net/images/anime/5/49631.jpg
+18629,Taiheiyou ni Kakeru Niji,Drama,OVA,1,5.44,https://cdn.myanimelist.net/images/anime/12/49761.jpg
+18631,Naniwa Kinyuu Den: Minami no Teiou,Drama,OVA,2,5.18,https://cdn.myanimelist.net/images/anime/1869/114423.jpg
+18731,Bokutachi no Peace River,Drama,OVA,1,5.38,https://cdn.myanimelist.net/images/anime/6/50041.jpg
+18747,Hotaru Kagayaku,Drama,OVA,1,5.9,https://cdn.myanimelist.net/images/anime/1344/96170.jpg
+19023,"Wake Up, Girls!",Drama,TV,12,7.04,https://cdn.myanimelist.net/images/anime/5/58971.jpg
+19115,Giovanni no Shima,Drama,Movie,1,7.86,https://cdn.myanimelist.net/images/anime/5/56297.jpg
+19117,Toaru Hikuushi e no Koiuta,Drama,TV,13,7.24,https://cdn.myanimelist.net/images/anime/2/56939.jpg
+19135,Kuroi Ame ni Utarete,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/1817/112099.jpg
+19167,Senbon Matsubara,Drama,Movie,1,6.31,https://cdn.myanimelist.net/images/anime/8/51493.jpg
+19177,Chiisana Love Letter: Mariko to Nemunoki no Kodomo-tachi,Drama,Special,1,5.57,https://cdn.myanimelist.net/images/anime/5/51485.jpg
+19467,Revbahaf Wang-gug Jaegeon-soelgi,Drama,TV,26,6.13,https://cdn.myanimelist.net/images/anime/4/52259.jpg
+19555,Ttoli Janggun,Drama,Movie,1,4.7,https://cdn.myanimelist.net/images/anime/8/52401.jpg
+19627,Junkers Come Here: Memories of You,Drama,OVA,1,5.73,https://cdn.myanimelist.net/images/anime/5/52511.jpg
+19695,Clover 4/3,Drama,ONA,24,7.43,https://cdn.myanimelist.net/images/anime/10/52689.jpg
+19905,"Dai-chan, Daisuki.",Drama,Movie,1,6.13,https://cdn.myanimelist.net/images/anime/1843/94729.jpg
+19907,Ecchan no Sensou,Drama,Movie,1,7.17,https://cdn.myanimelist.net/images/anime/4/53079.jpg
+19909,Pipi Tobenai Hotaru,Drama,Movie,1,5.2,https://cdn.myanimelist.net/images/anime/12/53081.jpg
+19917,Nijuushi no Hitomi,Drama,Special,1,6.25,https://cdn.myanimelist.net/images/anime/5/53117.jpg
+19941,Kimu no Juujika,Drama,Movie,1,7.5,https://cdn.myanimelist.net/images/anime/11/53177.jpg
+19943,Eikou e no Spur: Igaya Chiharu Monogatari,Drama,Movie,1,6.67,https://cdn.myanimelist.net/images/anime/12/53179.jpg
+19957,Huckleberry no Bouken (Movie),Drama,Movie,1,5.93,https://cdn.myanimelist.net/images/anime/3/53231.jpg
+19971,Machi Ichiban no Kechinbou,Drama,Special,1,5.61,https://cdn.myanimelist.net/images/anime/13/70125.jpg
+19973,Ashita no Joe Pilots,Drama,Special,2,6.5,https://cdn.myanimelist.net/images/anime/11/53387.jpg
+20143,Kazu &amp; Yasu Hero Tanjou,Drama,Movie,1,6.67,https://cdn.myanimelist.net/images/anime/9/53667.jpg
+20205,Yama ni Kagayaku: Guide-ken Heiji Gou,Drama,Special,1,6.2,https://cdn.myanimelist.net/images/anime/7/53781.jpg
+20207,Boku no Boukuugou,Drama,Special,1,7.14,https://cdn.myanimelist.net/images/anime/11/53783.jpg
+20223,Shounen Tokugawa Ieyasu,Drama,TV,20,7,https://cdn.myanimelist.net/images/anime/10/53833.jpg
+20225,Umigame to Shounen,Drama,Special,1,6.55,https://cdn.myanimelist.net/images/anime/2/53835.jpg
+20227,Yocchan no Biidama,Drama,Special,1,7.5,https://cdn.myanimelist.net/images/anime/9/53837.jpg
+20229,Makkuro na Obentou,Drama,Movie,1,7.67,https://cdn.myanimelist.net/images/anime/12/53839.jpg
+20235,Tako ni Natta Okaasan,Drama,Special,1,6.64,https://cdn.myanimelist.net/images/anime/2/53851.jpg
+20469,Himeyuri,Drama,Movie,1,6.59,https://cdn.myanimelist.net/images/anime/5/54359.jpg
+20499,Maji,Drama,OVA,3,6.17,https://cdn.myanimelist.net/images/anime/12/54431.jpg
+20505,Kimi to Boku,Drama,ONA,1,7.3,https://cdn.myanimelist.net/images/anime/5/54461.jpg
+20587,Ashinaga Ojisan,Drama,Special,1,6.17,https://cdn.myanimelist.net/images/anime/1408/138512.jpg
+20671,Shashinkan,Drama,Movie,1,7.57,https://cdn.myanimelist.net/images/anime/1413/112309.jpg
+20903,Harmonie,Drama,Movie,1,7.52,https://cdn.myanimelist.net/images/anime/2/55197.jpg
+20969,Tezuka Osamu no Buddha: Owarinaki Tabi,Drama,Movie,1,7.11,https://cdn.myanimelist.net/images/anime/1264/112847.jpg
+21025,Chang,Drama,Movie,1,6.33,https://cdn.myanimelist.net/images/anime/1892/112685.jpg
+21027,Saibi,Drama,Movie,1,7.08,https://cdn.myanimelist.net/images/anime/1056/112684.jpg
+21065,Yakusoku (ONA),Drama,ONA,1,6.97,https://cdn.myanimelist.net/images/anime/10/68987.jpg
+21189,"Wake Up, Girls! Shichinin no Idol",Drama,Movie,1,7.23,https://cdn.myanimelist.net/images/anime/10/57869.jpg
+21333,Kazoku no Hanashi,Drama,ONA,1,6.92,https://cdn.myanimelist.net/images/anime/11/69067.jpg
+21737,"Tamayura: More Aggressive - Tsuitachi dake no Shuugakuryokou, Nanode",Drama,Special,1,7.49,https://cdn.myanimelist.net/images/anime/9/63207.jpg
+21861,Airy Me,Drama,Music,1,6.4,https://cdn.myanimelist.net/images/anime/7/78635.jpg
+22791,Sora Iro Hana Iro,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/10/59249.jpg
+22847,Kara no Kyoukai: Mirai Fukuin - Manner Movie,Drama,Movie,1,6.17,https://cdn.myanimelist.net/images/anime/8/59323.jpg
+23031,Ashita no Kibou: Kanashimi yo Arigatou - Takae Tsuneo Monogatari,Drama,Movie,1,6.33,https://cdn.myanimelist.net/images/anime/8/59721.jpg
+23043,Re Boot,Drama,Music,1,7.25,https://cdn.myanimelist.net/images/anime/3/60643.jpg
+23293,Lupin the IIIrd: Jigen Daisuke no Bohyou,Drama,Movie,1,7.91,https://cdn.myanimelist.net/images/anime/12/69457.jpg
+23303,Hiroshima e no Tabi,Drama,OVA,1,5.75,https://cdn.myanimelist.net/images/anime/4/60233.jpg
+23353,Itsuka no Main: Kaminari Shounen - Tenta Sanjou!,Drama,OVA,1,6.73,https://cdn.myanimelist.net/images/anime/11/60673.jpg
+23407,Toki: Kono Hoshi no Mirai wo Mitsumete,Drama,Special,2,5.57,https://cdn.myanimelist.net/images/anime/9/60485.jpg
+23581,Romeo no Aoi Sora Specials,Drama,Special,2,6.7,https://cdn.myanimelist.net/images/anime/13/60941.jpg
+23583,Akage no Anne Specials,Drama,Special,2,6.49,https://cdn.myanimelist.net/images/anime/3/60943.jpg
+23585,Haha wo Tazunete Sanzenri Specials,Drama,Special,2,6.14,https://cdn.myanimelist.net/images/anime/1093/133073.jpg
+23587,The iDOLM@STER Cinderella Girls,Drama,TV,13,7.2,https://cdn.myanimelist.net/images/anime/10/70733.jpg
+23593,Saitama Bousou Saizensen Flag! Shinimonogurui no Seishun!!,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/2/60985.jpg
+23615,Eiyuu Banka Koushi-den,Drama,OVA,1,6.44,https://cdn.myanimelist.net/images/anime/12/61727.jpg
+23659,Hi no Tori: Hagoromo-hen,Drama,Movie,1,6.42,https://cdn.myanimelist.net/images/anime/1624/135629.jpg
+23711,Kakumei no Wakaki Sora,Drama,OVA,1,6.68,https://cdn.myanimelist.net/images/anime/8/61383.jpg
+23741,Wakakusa Monogatari: Nan to Jo-sensei Specials,Drama,Special,2,6.36,https://cdn.myanimelist.net/images/anime/8/62047.jpg
+23861,Ai no Kiseki: Doctor Norman Monogatari,Drama,Special,1,6.23,https://cdn.myanimelist.net/images/anime/5/62049.jpg
+23983,Fuichin-san,Drama,OVA,1,6.6,https://cdn.myanimelist.net/images/anime/11/62189.jpg
+23987,Sarusuberi: Miss Hokusai,Drama,Movie,1,7.28,https://cdn.myanimelist.net/images/anime/7/72531.jpg
+24085,Shura ga Yuku,Drama,OVA,1,5.4,https://cdn.myanimelist.net/images/anime/5/62607.jpg
+24371,Mobile Suit Gundam Unicorn: Episode EX - 100 Years of Solitude,Drama,Special,1,6.87,https://cdn.myanimelist.net/images/anime/4/62957.jpg
+24489,Koha Ginjiro,Drama,OVA,3,5.6,https://cdn.myanimelist.net/images/anime/8/63271.jpg
+24645,Ai Shoujo Pollyanna Story Specials,Drama,Special,2,6.11,https://cdn.myanimelist.net/images/anime/5/63433.jpg
+24647,Alps Monogatari: Watashi no Annette Specials,Drama,Special,2,5.77,https://cdn.myanimelist.net/images/anime/8/63437.jpg
+24679,Flanders no Inu Specials,Drama,Special,2,5.76,https://cdn.myanimelist.net/images/anime/5/63531.jpg
+24681,Kazoku Robinson Hyouryuuki: Fushigi na Shima no Flone Specials,Drama,Special,2,6.24,https://cdn.myanimelist.net/images/anime/13/63533.jpg
+25035,Sensou ga Owatta Natsu ni 1945 Karafuto,Drama,Movie,1,7.5,https://cdn.myanimelist.net/images/anime/8/64095.jpg
+25057,Kaba Enchou no Doubutsuen Nikki,Drama,Special,1,5.67,https://cdn.myanimelist.net/images/anime/3/64119.jpg
+25063,Anime Roukyoku Kikou Shimizu no Jirochouden,Drama,TV,30,5.25,https://cdn.myanimelist.net/images/anime/4/64125.jpg
+25065,Shin Dousei Jidai: Hawaiian Breeze,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/1581/133961.jpg
+25069,Tom Sawyer no Bouken Specials,Drama,Special,2,6.16,https://cdn.myanimelist.net/images/anime/10/64129.jpg
+25071,Minami no Niji no Lucy Specials,Drama,Special,2,7.6,https://cdn.myanimelist.net/images/anime/12/64131.jpg
+25073,Makiba no Shoujo Katori Specials,Drama,Special,2,6.5,https://cdn.myanimelist.net/images/anime/11/64133.jpg
+25075,Shoukoushi Cedie Specials,Drama,Special,2,7.2,https://cdn.myanimelist.net/images/anime/9/64135.jpg
+25079,Trapp Ikka Monogatari Specials,Drama,Special,2,6.73,https://cdn.myanimelist.net/images/anime/5/64139.jpg
+25087,Ie Naki Ko Remi Specials (2001),Drama,Special,2,7.07,https://cdn.myanimelist.net/images/anime/11/64147.jpg
+25089,Araiguma Rascal Specials,Drama,Special,2,5.67,https://cdn.myanimelist.net/images/anime/5/64149.jpg
+25143,"Kono Danshi, Sekika ni Nayandemasu.",Drama,OVA,1,7.24,https://cdn.myanimelist.net/images/anime/5/67151.jpg
+25183,Gangsta.,Drama,TV,12,7.5,https://cdn.myanimelist.net/images/anime/8/74415.jpg
+25299,Dosukoi! Wanpaku Dohyou,Drama,Movie,1,5.25,https://cdn.myanimelist.net/images/anime/2/64617.jpg
+25301,Maya no Isshou,Drama,Movie,1,8.75,https://cdn.myanimelist.net/images/anime/13/64619.jpg
+25305,Isewan Taifuu Monogatari,Drama,Movie,1,7.4,https://cdn.myanimelist.net/images/anime/1003/107674.jpg
+25601,Pink Lady Monogatari: Eikou no Tenshitachi Recaps,Drama,Special,2,7.33,https://cdn.myanimelist.net/images/anime/12/65121.jpg
+25605,Mochi Mochi no Ki (OVA),Drama,OVA,1,6.4,https://cdn.myanimelist.net/images/anime/10/65125.jpg
+25623,Rouge: Lady&#039;s Comic Video,Drama,OVA,2,7.33,https://cdn.myanimelist.net/images/anime/9/65145.jpg
+25729,Tamayura: Sotsugyou Shashin Part 1 - Kizashi,Drama,Movie,1,7.69,https://cdn.myanimelist.net/images/anime/6/71628.jpg
+25801,Shouwa Genroku Rakugo Shinjuu: Yotarou Hourou-hen,Drama,OVA,2,7.6,https://cdn.myanimelist.net/images/anime/7/66057.jpg
+25833,Zephyr,Drama,Special,1,6.37,https://cdn.myanimelist.net/images/anime/7/68127.jpg
+26091,Koe wo Kikasete,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/4/65967.jpg
+26093,"Tanbai Haru, Tookaraji",Drama,OVA,1,5.25,https://cdn.myanimelist.net/images/anime/13/65969.jpg
+26095,Kono Sora no Shita de,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/5/65971.jpg
+26097,Yume no Tsuzuki,Drama,OVA,1,8.67,https://cdn.myanimelist.net/images/anime/9/65973.jpg
+26099,Hidamari no Ie,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/2/65975.jpg
+26101,Boku to Gaku: Ano Natsu no Monogatari,Drama,OVA,1,7.2,https://cdn.myanimelist.net/images/anime/5/65993.jpg
+26103,Namae... Sore wa Moeru Inochi,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/5/65977.jpg
+26105,"Gomen ne, Mii-chan",Drama,OVA,1,7.5,https://cdn.myanimelist.net/images/anime/5/65979.jpg
+26107,Miitsuketa!,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/8/65981.jpg
+26109,Kokoro no Koukyougaku,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/6/65983.jpg
+26111,Hibike! Wadaiko,Drama,OVA,1,6.78,https://cdn.myanimelist.net/images/anime/2/65985.jpg
+26113,Yooidon!,Drama,OVA,1,7.5,https://cdn.myanimelist.net/images/anime/8/65987.jpg
+26115,Moudouken Quill no Isshou,Drama,OVA,1,6.2,https://cdn.myanimelist.net/images/anime/11/65989.jpg
+26119,Iwata Kunchi no Obaachan,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/12/65995.jpg
+26215,Niji no Kizuna,Drama,OVA,1,6.67,https://cdn.myanimelist.net/images/anime/13/66145.jpg
+26217,Himawari no You ni,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/5/66147.jpg
+26219,Tabidachi no Hi ni,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/9/66149.jpg
+26221,Mebae no Ashita,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/2/66151.jpg
+26223,Shin-chan ga Naita!,Drama,OVA,1,6.83,https://cdn.myanimelist.net/images/anime/10/66153.jpg
+26225,"Kii-chan Watashi, Umarete Kite Yokatta!",Drama,OVA,1,7.25,https://cdn.myanimelist.net/images/anime/5/66155.jpg
+26227,"Ikitemasu, 15-sai.",Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/6/66157.jpg
+26229,Kaze no Tabibito,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/4/66159.jpg
+26231,Kiniro no Kujira,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/12/66161.jpg
+26233,Kitsune no Kan Chigai,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/9/66163.jpg
+26235,Crayon no Hoshi,Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/7/66165.jpg
+26237,Cherry Blossom,Drama,OVA,1,5.5,https://cdn.myanimelist.net/images/anime/12/66167.jpg
+26239,Tenki ni Naare,Drama,OVA,1,7.75,https://cdn.myanimelist.net/images/anime/11/66169.jpg
+26241,Inochi Kagayaku Akari,Drama,OVA,1,5.71,https://cdn.myanimelist.net/images/anime/9/66171.jpg
+26247,Mina no Egao,Drama,OVA,1,6.22,https://cdn.myanimelist.net/images/anime/1038/112353.jpg
+26249,Mina no Mura to Kawa,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/5/66189.jpg
+26251,Mina no Mura to Mori,Drama,OVA,1,6.2,https://cdn.myanimelist.net/images/anime/5/66191.jpg
+26253,Mina no Mura no Gomi Soudou,Drama,OVA,1,5.5,https://cdn.myanimelist.net/images/anime/12/66277.jpg
+26255,Mina no Bousai Mura Dzukuri,Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/9/66193.jpg
+26257,Nidoto Touranai Tabibito,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/9/66195.jpg
+26259,Mienu Me ni Kanjita Kumotoriyama no Asahi,Drama,OVA,1,9,https://cdn.myanimelist.net/images/anime/4/66197.jpg
+26261,Tabi no Kisetsu,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/3/66199.jpg
+26263,Shiokari Touge,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/3/66201.jpg
+26265,Nogiku no Haka,Drama,OVA,1,6.8,https://cdn.myanimelist.net/images/anime/7/66203.jpg
+26267,Goi-sensei to Tarou,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/13/66205.jpg
+26269,Tegami,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/1642/98527.jpg
+26271,Meiji Ishin wo Tsukuriageta Hitobito,Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/8/66209.jpg
+26273,Tenka wo Mezashita Sannin no Bushou,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/10/66211.jpg
+26275,Tokugawa Iemitsu to Edo Bakufu,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/7/66213.jpg
+26277,Minamoto no Yoritomo to Bushi no Yononaka,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/3/66215.jpg
+26281,Mother Teresa,Drama,OVA,1,7.25,https://cdn.myanimelist.net/images/anime/6/66219.jpg
+26283,Gin no Rousokutate,Drama,OVA,1,4.36,https://cdn.myanimelist.net/images/anime/3/66221.jpg
+26285,Ao no Doumon,Drama,OVA,1,6.08,https://cdn.myanimelist.net/images/anime/7/66223.jpg
+26289,Hage,Drama,OVA,1,6.43,https://cdn.myanimelist.net/images/anime/7/66227.jpg
+26291,Boku no Diet Daisakusen,Drama,OVA,1,5.75,https://cdn.myanimelist.net/images/anime/7/66229.jpg
+26295,Haha Uzura,Drama,OVA,1,8.5,https://cdn.myanimelist.net/images/anime/5/66233.jpg
+26297,Inori no Te,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/11/66235.jpg
+26299,Inamuranohi,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/1948/99410.jpg
+26301,Donguri to Yamaneko (1995),Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/11/66239.jpg
+26305,Naita Aka Oni (OVA),Drama,OVA,1,5.75,https://cdn.myanimelist.net/images/anime/4/66243.jpg
+26307,"Yume, Sora Takaku",Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/4/74551.jpg
+26309,Ichimai no Etegami,Drama,OVA,1,5,https://cdn.myanimelist.net/images/anime/8/66247.jpg
+26311,Tasukeai no Rekishi: Inochi Hoken no Hajimari,Drama,OVA,1,5.62,https://cdn.myanimelist.net/images/anime/7/66249.jpg
+26313,Yakusoku: Africa Mizu to Midori,Drama,OVA,1,9.25,https://cdn.myanimelist.net/images/anime/10/66251.jpg
+26315,"Okaasan, Nakanaide",Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/4/66253.jpg
+26319,Mimizuku to Tsuki-sama,Drama,OVA,1,5.8,https://cdn.myanimelist.net/images/anime/12/66257.jpg
+26321,Soba no Hana Saita Hi,Drama,OVA,1,6.2,https://cdn.myanimelist.net/images/anime/11/66259.jpg
+26323,Hitotsu no Hana,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/10/66261.jpg
+26325,Minna Ichiban!,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/7/66263.jpg
+26327,Kitsune to Budou,Drama,OVA,1,5.8,https://cdn.myanimelist.net/images/anime/6/66265.jpg
+26329,Ijimekko Ookami to Nana-chan,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/13/66267.jpg
+26331,Jigoku no Soubee,Drama,OVA,1,7.33,https://cdn.myanimelist.net/images/anime/3/66269.jpg
+26333,Kaneko Misuzu: Yasashisa no Fuukei,Drama,OVA,1,5.25,https://cdn.myanimelist.net/images/anime/12/66271.jpg
+26335,Nanatsu no Hoshi,Drama,OVA,1,7.33,https://cdn.myanimelist.net/images/anime/8/66273.jpg
+26339,Tobidashicha dame!,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/11/66279.jpg
+26341,Hanamaru Koutsuu Anzen,Drama,OVA,1,6.17,https://cdn.myanimelist.net/images/anime/10/66281.jpg
+27375,Hitoribotchi,Drama,Movie,1,6,https://cdn.myanimelist.net/images/anime/1271/100909.jpg
+27405,Zou no Senaka: Tabidatsu Hi,Drama,OVA,1,6.49,https://cdn.myanimelist.net/images/anime/1928/120350.jpg
+27557,Ajisai no Uta,Drama,OVA,3,5.57,https://cdn.myanimelist.net/images/anime/5/66759.jpg
+27573,Obasuteyama,Drama,Movie,1,7,https://cdn.myanimelist.net/images/anime/9/84490.jpg
+27579,Mii-chan no Tenohira,Drama,Movie,1,8.33,https://cdn.myanimelist.net/images/anime/7/66783.jpg
+27651,Ginga Tetsudou 999: Niji no Michishirube,Drama,Movie,1,6.62,https://cdn.myanimelist.net/images/anime/5/66929.jpg
+27839,Ticonderonga no Iru Umi,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/3/67455.jpg
+27921,Genkichi Jiisan to Kogitsune,Drama,OVA,1,6.6,https://cdn.myanimelist.net/images/anime/10/67681.jpg
+27989,Hibike! Euphonium,Drama,TV,13,8.03,https://cdn.myanimelist.net/images/anime/6/72445.jpg
+28055,Yuki no Yo no Yume,Drama,Movie,1,4.79,https://cdn.myanimelist.net/images/anime/3/67925.jpg
+28109,Kuzuryuugawa to Shounen,Drama,OVA,1,7.75,https://cdn.myanimelist.net/images/anime/3/68023.jpg
+28111,Kaitou Gary no Nihonjin Kouryakuhou!,Drama,OVA,1,5.54,https://cdn.myanimelist.net/images/anime/7/68025.jpg
+28119,Kuma no Minakuro to Kouhei Jiisan,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/9/68033.jpg
+28143,Ochou Fujin no Gensou,Drama,Movie,1,4.24,https://cdn.myanimelist.net/images/anime/11/68091.jpg
+28227,White Album 2 Picture Drama,Drama,Special,2,6.1,https://cdn.myanimelist.net/images/anime/5/71047.jpg
+28353,Henteko na Volunteer,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/1395/137189.jpg
+28483,Ijime wa Zettai Warui!,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/11/68767.jpg
+28485,Ichiban Chikaku ni,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/9/74514.jpg
+28543,Zukkoke Sannin-gumi no Hi Asobi Boushi Daisakusen,Drama,OVA,1,5.83,https://cdn.myanimelist.net/images/anime/13/68923.jpg
+28545,Nobunaga-kun no Minna de Yakusoku Hi no Youjin,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/4/68925.jpg
+28547,Nobunaga-kun no Jitensha no Rule wo Mamoru no Ja,Drama,OVA,1,6.25,https://cdn.myanimelist.net/images/anime/7/68927.jpg
+28549,Jishin ga Kitarou Dousuru? Mushi Mushi Mura no Bousai Kunren,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/4/68929.jpg
+28551,Boku wa Sugu ni Nigetanda: Higashi Nihon Daishinsai kara Mananda Koto,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/5/68931.jpg
+28557,Yamete! Writer Asobi: Doubutsu Mura no Shoubou-tai Shutsu Dou,Drama,OVA,1,8.67,https://cdn.myanimelist.net/images/anime/2/68937.jpg
+28559,Magical Puuta no Hi Asobi wa Abunai yo,Drama,OVA,1,6.2,https://cdn.myanimelist.net/images/anime/4/68939.jpg
+28561,Saru Tarou Jishin ni wa Makenai zo!: Jishin e no Sonae Dai Sakusen,Drama,OVA,1,8.25,https://cdn.myanimelist.net/images/anime/9/68941.jpg
+28563,Hi Asobi wa Kaji no Moto: Kenta to Nyanta no Hi no Youjin,Drama,OVA,1,8.4,https://cdn.myanimelist.net/images/anime/8/68943.jpg
+28565,Jishin da!! Mii-chan no Bousai Kunren,Drama,OVA,1,7.5,https://cdn.myanimelist.net/images/anime/3/68945.jpg
+28567,Azarashi Tama-chan no Hi no Youjin,Drama,OVA,1,5.75,https://cdn.myanimelist.net/images/anime/13/68947.jpg
+28571,Karugamo Oyako no Hi no Youjin,Drama,OVA,1,5.67,https://cdn.myanimelist.net/images/anime/13/68951.jpg
+28573,Somei-ka no Hi no Youjin: Bouka no Tebiki Katei-hen,Drama,OVA,1,7.33,https://cdn.myanimelist.net/images/anime/9/68953.jpg
+28575,"Hanshin Awaji Daishinsai ni Manabu: Boku wa, Ano Hi wo Wasurenai.",Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/3/68955.jpg
+28577,Makehen de! Roku-nen San-kumi no Hanshin Daishinsai,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/11/68957.jpg
+28581,Nintama Rantarou no Jishin Youjin Hi no Youjin,Drama,OVA,1,6.29,https://cdn.myanimelist.net/images/anime/10/68961.jpg
+28583,Nintama Rantarou no Shouboutai,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/8/68963.jpg
+28585,Ajjishin da Tsunami wa? Jibun no Inochi wa Jibun de Mamoru,Drama,OVA,1,5.4,https://cdn.myanimelist.net/images/anime/10/68965.jpg
+28735,Shouwa Genroku Rakugo Shinjuu,Drama,TV,13,8.59,https://cdn.myanimelist.net/images/anime/1354/124768.jpg
+28789,3-gatsu no Lion meets Bump of Chicken,Drama,Music,1,6.8,https://cdn.myanimelist.net/images/anime/13/69921.jpg
+28841,"Wake Up, Girls! Seishun no Kage",Drama,Movie,1,7.15,https://cdn.myanimelist.net/images/anime/6/75337.jpg
+28851,Koe no Katachi,Drama,Movie,1,9.05,https://cdn.myanimelist.net/images/anime/1122/96435.jpg
+28999,Charlotte,Drama,TV,13,7.91,https://cdn.myanimelist.net/images/anime/12/74683.jpg
+29093,Grisaia no Meikyuu: Caprice no Mayu 0,Drama,Special,1,8.05,https://cdn.myanimelist.net/images/anime/1278/112633.jpg
+29095,Grisaia no Rakuen,Drama,TV,10,8.08,https://cdn.myanimelist.net/images/anime/8/72855.jpg
+29301,Kurage no Shokudou,Drama,OVA,1,6.32,https://cdn.myanimelist.net/images/anime/1285/112446.jpg
+29365,"Mirai e no Niji: Boku no Ojisan wa, Hansen-byou",Drama,OVA,1,8.5,https://cdn.myanimelist.net/images/anime/12/70619.jpg
+29623,Jiaoao de Jiangjun,Drama,Movie,1,5.64,https://cdn.myanimelist.net/images/anime/9/71271.jpg
+29637,Samurai,Drama,Movie,1,3.58,https://cdn.myanimelist.net/images/anime/3/71269.jpg
+29651,Ikedaya Soudou,Drama,Movie,1,3.85,https://cdn.myanimelist.net/images/anime/7/71305.jpg
+29653,Futari Zamurai Homare no Kawakiri,Drama,Movie,1,4.82,https://cdn.myanimelist.net/images/anime/6/71307.jpg
+29675,Sarasoujuu no Hana no Iro,Drama,Movie,1,3.8,https://cdn.myanimelist.net/images/anime/7/71333.jpg
+29677,Kage,Drama,Movie,1,4.22,https://cdn.myanimelist.net/images/anime/8/71335.jpg
+29801,The iDOLM@STER Million Live! 1st Anniversary PV,Drama,Special,1,6.15,https://cdn.myanimelist.net/images/anime/10/71589.jpg
+29812,Yumemi Douji,Drama,Movie,1,5.27,https://cdn.myanimelist.net/images/anime/12/71597.jpg
+29829,Tamayura: Sotsugyou Shashin Part 2 - Hibiki,Drama,Movie,1,7.85,https://cdn.myanimelist.net/images/anime/12/76028.jpg
+29830,Tamayura: Sotsugyou Shashin Part 3 - Akogare,Drama,Movie,1,7.88,https://cdn.myanimelist.net/images/anime/10/76022.jpg
+29831,Tamayura: Sotsugyou Shashin Part 4 - Ashita,Drama,Movie,1,8.1,https://cdn.myanimelist.net/images/anime/1697/134884.jpg
+29834,Moshidora Recap,Drama,Special,1,5.94,https://cdn.myanimelist.net/images/anime/10/71637.jpg
+29857,Fojiao Donghua: Dashi Zhi Pusa Nianfo Yuantong Zhang,Drama,Special,1,4.52,https://cdn.myanimelist.net/images/anime/12/71685.jpg
+29900,Nobara,Drama,Movie,1,4.59,https://cdn.myanimelist.net/images/anime/2/71782.jpg
+30024,SOS Kochira Chikyuu,Drama,Movie,1,6.25,https://cdn.myanimelist.net/images/anime/12/84426.jpg
+30045,Shin Saru Kani Gassen,Drama,Movie,1,4.39,https://cdn.myanimelist.net/images/anime/2/71961.jpg
+30059,Saru Kani Gassen,Drama,Movie,1,4.75,https://cdn.myanimelist.net/images/anime/13/72014.jpg
+30133,"Ima, Futari no Michi",Drama,Special,1,6.01,https://cdn.myanimelist.net/images/anime/9/72147.jpg
+30193,Eun-sil-i,Drama,Movie,1,5.81,https://cdn.myanimelist.net/images/anime/10/72250.jpg
+30249,Balgwanghaneun Hyeondaesa,Drama,Movie,1,6.57,https://cdn.myanimelist.net/images/anime/1173/112333.jpg
+30344,The iDOLM@STER Cinderella Girls 2nd Season,Drama,TV,12,7.38,https://cdn.myanimelist.net/images/anime/9/75120.jpg
+30386,Pikaia!,Drama,TV,13,5.8,https://cdn.myanimelist.net/images/anime/3/78238.jpg
+30419,"Wake Up, Girls! Beyond the Bottom",Drama,Movie,1,7.18,https://cdn.myanimelist.net/images/anime/5/76402.jpg
+30458,Tokyo Ghoul: &quot;Jack&quot;,Drama,OVA,1,7.71,https://cdn.myanimelist.net/images/anime/1739/123152.jpg
+30473,"Nemure Omoi Ko, Sora no Shitone ni",Drama,Movie,1,5.53,https://cdn.myanimelist.net/images/anime/3/82924.jpg
+30549,Soukyuu no Fafner: Dead Aggressor - Exodus 2nd Season,Drama,TV,13,7.74,https://cdn.myanimelist.net/images/anime/7/76538.jpg
+30740,Young Black Jack,Drama,TV,12,7.32,https://cdn.myanimelist.net/images/anime/3/76125.jpg
+30759,Minna de Tonda,Drama,OVA,1,7.67,https://cdn.myanimelist.net/images/anime/7/74009.jpg
+30760,Momoiro no Crayon,Drama,OVA,1,5.06,https://cdn.myanimelist.net/images/anime/10/74015.jpg
+30763,Yuuki no Omamori,Drama,OVA,1,6.42,https://cdn.myanimelist.net/images/anime/2/74018.jpg
+30764,Jibun no Mune ni te wo Atete,Drama,OVA,1,4.88,https://cdn.myanimelist.net/images/anime/5/74019.jpg
+30765,Present,Drama,OVA,1,5.5,https://cdn.myanimelist.net/images/anime/8/74020.jpg
+30806,Schwarzesmarken,Drama,TV,12,7,https://cdn.myanimelist.net/images/anime/13/77386.jpg
+30901,Utawarerumono: Itsuwari no Kamen,Drama,TV,25,7.35,https://cdn.myanimelist.net/images/anime/8/75968.jpg
+30926,Akazukin Chanto Manabou! Koutsuu Rule,Drama,OVA,1,4.63,https://cdn.myanimelist.net/images/anime/9/74430.jpg
+30928,Tobidashi wa Abunaizo! Mushi Mushi Mura no Koutsuu Anzen,Drama,OVA,1,4,https://cdn.myanimelist.net/images/anime/11/74432.jpg
+30930,Mameushi-kun no Koutsuu Anzen,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/2/74434.jpg
+30935,Douwa Mondai to Jinken: Anata wa Dou Kangaemasuka,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/4/74438.jpg
+30938,Ijime Juuyon-sai no Message,Drama,OVA,1,5.5,https://cdn.myanimelist.net/images/anime/13/74441.jpg
+30939,Shiranpuri,Drama,OVA,1,6.18,https://cdn.myanimelist.net/images/anime/11/74442.jpg
+30940,Shounen Muku Hatojuu Monogatari,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/8/74443.jpg
+30941,Utsukushii Message,Drama,OVA,1,8.33,https://cdn.myanimelist.net/images/anime/6/74444.jpg
+30943,Ojiichan wa Boku no Hero,Drama,OVA,1,8.4,https://cdn.myanimelist.net/images/anime/2/74446.jpg
+30944,Muku Hatojuu no Meiken Monogatari,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/3/74448.jpg
+30974,Wasurerumonka!,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/13/74519.jpg
+30976,Kiminari Dousuru? Yuukai Itazura: Sarenai Tame ni,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/10/74520.jpg
+30977,Umi no Koumori,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/9/74521.jpg
+30978,Okaasan no Yasashii te,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/7/74522.jpg
+30980,Ojiichan no Hanabi,Drama,OVA,1,8,https://cdn.myanimelist.net/images/anime/3/74524.jpg
+30981,Hotaru no Mau Machi de,Drama,OVA,1,6.17,https://cdn.myanimelist.net/images/anime/2/74525.jpg
+30982,Shutter Chance,Drama,OVA,1,4.75,https://cdn.myanimelist.net/images/anime/3/74526.jpg
+30985,Yamakoshi Mura no Mari to Sanbiki no Koinu,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/1540/112442.jpg
+30997,Ojiichan no Tomato,Drama,OVA,1,6.5,https://cdn.myanimelist.net/images/anime/7/74553.jpg
+30999,Ningen no Uta,Drama,OVA,1,4.5,https://cdn.myanimelist.net/images/anime/12/74554.jpg
+31000,Kizuna: Ningen no Uta Part 2,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/12/74555.jpg
+31001,Mirai Kara no Message,Drama,OVA,1,7.75,https://cdn.myanimelist.net/images/anime/4/74556.jpg
+31002,Nibiki no Neko to Genkina Kazoku,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/10/74557.jpg
+31003,Boku no Aozora,Drama,OVA,1,8.5,https://cdn.myanimelist.net/images/anime/13/74558.jpg
+31004,Niji no Kakehashi,Drama,OVA,1,8.2,https://cdn.myanimelist.net/images/anime/1031/109820.jpg
+31005,Souta no Chikai: Sabetsu ni Makenai Chikara,Drama,OVA,1,6.6,https://cdn.myanimelist.net/images/anime/12/74559.jpg
+31007,Kumori Nochi Hare,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/13/74560.jpg
+31008,Makeruna! Senta: Sayonara Ijime Mushi,Drama,OVA,1,6,https://cdn.myanimelist.net/images/anime/7/74561.jpg
+31016,Juuroku Jizou Monogatari: Sensou no Gisei ni Natta Kodomo-tachi,Drama,OVA,1,6.33,https://cdn.myanimelist.net/images/anime/6/74568.jpg
+31017,Neko wa Ikite Iru,Drama,Movie,1,7.33,https://cdn.myanimelist.net/images/anime/2/75022.jpg
+31129,Chichi to Ko,Drama,Special,1,6,https://cdn.myanimelist.net/images/anime/12/74968.jpg
+31165,Meiji x Kokosake &amp; anohana Receipt Oubo Campaign,Drama,Special,2,5.6,https://cdn.myanimelist.net/images/anime/7/75927.jpg
+31229,Servamp,Drama,TV,12,7.12,https://cdn.myanimelist.net/images/anime/8/80953.jpg
+31235,Hikawa Maru Monogatari,Drama,Movie,1,7.3,https://cdn.myanimelist.net/images/anime/11/75075.jpg
+31321,Shounen to Sakura,Drama,OVA,1,6.83,https://cdn.myanimelist.net/images/anime/7/75322.jpg
+31362,Osiris no Tenbin,Drama,ONA,10,6.06,https://cdn.myanimelist.net/images/anime/10/75432.jpg
+31387,Aru Hi Inu no Kuni kara Tegami ga Kite,Drama,OVA,1,6.66,https://cdn.myanimelist.net/images/anime/1085/92040.jpg
+31405,Joker Game,Drama,TV,12,7.21,https://cdn.myanimelist.net/images/anime/9/77523.jpg
+31463,"Maemilggot, Unsu Joeun Nal, Geurigo Bombom",Drama,Movie,1,5.5,https://cdn.myanimelist.net/images/anime/11/79709.jpg
+31561,Gangsta. Recap,Drama,Special,1,6.51,https://cdn.myanimelist.net/images/anime/1492/122102.jpg
+31575,Offside,Drama,OVA,1,5.5,https://cdn.myanimelist.net/images/anime/2/76142.jpg
+31646,3-gatsu no Lion,Drama,TV,23,7.93,https://cdn.myanimelist.net/images/anime/3/82899.jpg
+31665,Hibike! Euphonium: Kakedasu Monaka,Drama,Special,1,7.5,https://cdn.myanimelist.net/images/anime/2/77322.jpg
+31798,Kiznaiver,Drama,TV,12,7.67,https://cdn.myanimelist.net/images/anime/6/78466.jpg
+31859,Hai to Gensou no Grimgar,Drama,TV,12,7.87,https://cdn.myanimelist.net/images/anime/13/77976.jpg
+31988,Hibike! Euphonium 2,Drama,TV,13,8.25,https://cdn.myanimelist.net/images/anime/10/81155.jpg
+32023,Bubuki Buranki,Drama,TV,12,6.47,https://cdn.myanimelist.net/images/anime/7/79758.jpg
+32034,Soukyuu no Fafner: Dead Aggressor - Exodus Special,Drama,Special,1,7.33,https://cdn.myanimelist.net/images/anime/9/77029.jpg
+32153,Mahou Shoujo MadokaÃ¢Ëœâ€¦Magica: Concept Movie,Drama,Movie,1,6.99,https://cdn.myanimelist.net/images/anime/12/77732.jpg
+32174,"The iDOLM@STER Cinderella Girls: Anytime, Anywhere with Cinderella.",Drama,Special,1,7.41,https://cdn.myanimelist.net/images/anime/11/78300.jpg
+32224,Mako-chan no Koutsuu Anzen,Drama,Movie,1,3.77,https://cdn.myanimelist.net/images/anime/8/77373.jpg
+32255,Ashita Kirarin,Drama,OVA,1,6.45,https://cdn.myanimelist.net/images/anime/9/77432.jpg
+32291,Kakegae no,Drama,ONA,1,5.27,https://cdn.myanimelist.net/images/anime/3/77492.jpg
+32309,Tabi Machi Late Show,Drama,TV,4,6.27,https://cdn.myanimelist.net/images/anime/3/78140.jpg
+32311,Beautiful World,Drama,Music,1,6.62,https://cdn.myanimelist.net/images/anime/1938/137308.jpg
+32382,"Wake Up, Girls! no Miyagi PR Yarasete Kudasai!",Drama,Special,1,6.1,https://cdn.myanimelist.net/images/anime/5/79532.jpg
+32461,Mitsuami no Kamisama,Drama,Movie,1,7.16,https://cdn.myanimelist.net/images/anime/1129/112818.jpg
+32581,Gaza: Changing the World,Drama,ONA,1,5.14,https://cdn.myanimelist.net/images/anime/10/78222.jpg
+32646,Tsuzuki wo Kangaeru Monogatari,Drama,Special,4,5.43,https://cdn.myanimelist.net/images/anime/2/78363.jpg
+32728,Sensou no Tsukurikata,Drama,ONA,1,6.62,https://cdn.myanimelist.net/images/anime/1444/93487.jpg
+32735,Persona 3 the Movie Meets Ã¢â‚¬Å“WalkmanÃ¢â‚¬Â,Drama,ONA,1,5.91,https://cdn.myanimelist.net/images/anime/8/78544.jpg
+32759,Kokuen,Drama,Music,1,4.52,https://cdn.myanimelist.net/images/anime/12/78587.jpg
+32760,Bungaku Shounen no Yuuutsu,Drama,Music,1,6.3,https://cdn.myanimelist.net/images/anime/11/78588.jpg
+32804,Ainone,Drama,Music,1,5.03,https://cdn.myanimelist.net/images/anime/5/78657.jpg
+32832,Kaze no You ni,Drama,Movie,1,6.14,https://cdn.myanimelist.net/images/anime/2/80842.jpg
+32845,Ishitsubutsu Toriatsukaijo,Drama,Music,1,5.11,https://cdn.myanimelist.net/images/anime/13/78752.jpg
+32897,Seishun Anime Zenshuu Specials,Drama,Special,2,5,https://cdn.myanimelist.net/images/anime/3/78898.jpg
+32901,Eromanga-sensei,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/2/86468.jpg
+32947,Battery,Drama,TV,11,5.92,https://cdn.myanimelist.net/images/anime/6/79158.jpg
+32948,Fune wo Amu,Drama,TV,11,7.6,https://cdn.myanimelist.net/images/anime/5/81624.jpg
+32998,91 Days,Drama,TV,12,7.93,https://cdn.myanimelist.net/images/anime/13/80515.jpg
+33012,Island,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/1951/95080.jpg
+33041,Bubuki Buranki: Hoshi no Kyojin,Drama,TV,12,6.91,https://cdn.myanimelist.net/images/anime/2/82249.jpg
+33091,Planetarian: Chiisana Hoshi no Yume,Drama,ONA,5,7.61,https://cdn.myanimelist.net/images/anime/11/80753.jpg
+33095,Shouwa Genroku Rakugo Shinjuu: Sukeroku Futatabi-hen,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/1493/124765.jpg
+33129,Joker Game: Kuroneko Yoru no Bouken,Drama,Special,2,6.62,https://cdn.myanimelist.net/images/anime/3/82009.jpg
+33154,Osiris no Tenbin: Season 2,Drama,ONA,11,6.08,https://cdn.myanimelist.net/images/anime/6/79641.jpg
+33170,Kokoro ga Sakebitagatterunda. x Sony Hi-Res &quot;Walkman&quot; and Headphone,Drama,Special,1,5.63,https://cdn.myanimelist.net/images/anime/12/79673.jpg
+33192,Robot Town Sagami 2028,Drama,ONA,1,6.41,https://cdn.myanimelist.net/images/anime/11/79763.jpg
+33204,Hirune Hime: Shiranai Watashi no Monogatari,Drama,Movie,1,nan,https://cdn.myanimelist.net/images/anime/7/84071.jpg
+33232,Area 88 Movie,Drama,Movie,1,7.18,https://cdn.myanimelist.net/images/anime/1142/134481.jpg
+33237,Romangeun Eobsda,Drama,Movie,1,6,https://cdn.myanimelist.net/images/anime/5/79859.jpg
+33238,Padak Padak,Drama,Movie,1,6.5,https://cdn.myanimelist.net/images/anime/8/79860.jpg
+33239,Saenggakboda Markeun,Drama,Movie,1,7.5,https://cdn.myanimelist.net/images/anime/10/79861.jpg
+33248,K: Seven Stories,Drama,nan,Unknown,nan,https://cdn.myanimelist.net/images/anime/1446/90544.jpg
+33326,Aftermath,Drama,Music,1,6.33,https://cdn.myanimelist.net/images/anime/7/80076.jpg
+33337,ACCA: 13-ku Kansatsu-ka,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/3/83776.jpg
+33348,Kushimitama Samurai,Drama,Special,1,5.67,https://cdn.myanimelist.net/images/anime/9/80122.jpg
+33352,Violet Evergarden,Drama,nan,Unknown,nan,https://cdn.myanimelist.net/images/anime/1795/95088.jpg
+33396,Hua Jiang Hu Zhi Bu Liang Ren,Drama,ONA,54,8,https://cdn.myanimelist.net/images/anime/13/80256.jpg
+33474,Haha wo Tazunete Sanzenri (Movie),Drama,Movie,1,6.81,https://cdn.myanimelist.net/images/anime/5/80489.jpg
+33538,Shima Kousaku no Asia Risshi-den,Drama,TV,26,6,https://cdn.myanimelist.net/images/anime/13/80670.jpg
+33539,Shima Kousaku no Asia Risshi-den Specials,Drama,Special,4,5.67,https://cdn.myanimelist.net/images/anime/6/80671.jpg
+33540,Shima Kousaku no Asia Shinseki-den,Drama,TV,Unknown,7,https://cdn.myanimelist.net/images/anime/11/80672.jpg
+33726,Saiyuuki Reload Blast,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/11/86675.jpg
+33755,Ma Shen,Drama,ONA,Unknown,6,https://cdn.myanimelist.net/images/anime/6/81481.jpg
+33777,Yodomi no Sakagi,Drama,Special,1,5.82,https://cdn.myanimelist.net/images/anime/9/81337.jpg
+33801,Shiguang Guiyu,Drama,ONA,10,7,https://cdn.myanimelist.net/images/anime/1836/112310.jpg
+33823,Genbaku Dome Monogatari,Drama,OVA,1,7,https://cdn.myanimelist.net/images/anime/1213/99483.jpg
+33831,Chii-chan no Kageokuri,Drama,OVA,1,4.5,https://cdn.myanimelist.net/images/anime/5/81450.jpg
+33862,Chichi Kaeru,Drama,ONA,1,4.56,https://cdn.myanimelist.net/images/anime/5/81522.jpg
+33902,Suntory Minami Alps no Tennen Mizu,Drama,Special,3,6.26,https://cdn.myanimelist.net/images/anime/13/81596.jpg
+33940,Best Care Group,Drama,ONA,3,5.19,https://cdn.myanimelist.net/images/anime/3/81650.jpg
+33964,91 Days Recap,Drama,Special,1,6.35,https://cdn.myanimelist.net/images/anime/13/81707.jpg
+33980,Mirai ni Mukete: Bousai wo Kangaeru,Drama,Movie,1,9,https://cdn.myanimelist.net/images/anime/7/81777.jpg
+34085,Sakura Nagashi,Drama,Music,1,7.29,https://cdn.myanimelist.net/images/anime/9/82037.jpg
+34115,Hitori de Nayamanaide Issho ni Kangaeyou,Drama,Movie,1,4.22,https://cdn.myanimelist.net/images/anime/5/82094.jpg
+34119,Escalator-jou no Hokou no Kiken-sei,Drama,Special,1,3.33,https://cdn.myanimelist.net/images/anime/10/82098.jpg
+34120,Kizuna (ONA),Drama,ONA,1,5.13,https://cdn.myanimelist.net/images/anime/3/82100.jpg
+34122,Minna de Bokumetsu Inshu Unten,Drama,Special,1,4.56,https://cdn.myanimelist.net/images/anime/8/82103.jpg
+34201,Kuni-chan no Ikka Ranran,Drama,Movie,1,7.5,https://cdn.myanimelist.net/images/anime/2/82286.jpg
+34383,Netsuzou TRap,Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/10/86667.jpg
+34498,"Uchiage Hanabi, Shita kara Miru ka? Yoko kara Miru ka?",Drama,Movie,1,nan,https://cdn.myanimelist.net/images/anime/10/86521.jpg
+34522,"Wake Up, Girls! Shin Shou",Drama,TV,Unknown,nan,https://cdn.myanimelist.net/images/anime/10/87732.jpg
